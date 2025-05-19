@@ -1,0 +1,717 @@
+2025-04-29T17:43:12 Health check from 192.168.8.126
+2025-04-29T17:43:12 2025-04-29T17:43:12.531925 192.168.8.126 GET /api/health 200 - 744
+2025-04-29T17:43:12 Received detection: {'frequency': 17851, 'magnitude': 12341.92, 'timestamp': 3286}
+2025-04-29T17:43:12 Detection received - Frequency: 17851 Hz, Magnitude: 12341.92, Client: 192.168.8.126
+2025-04-29T17:43:12 2025-04-29T17:43:12.624204 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:13 Received detection: {'frequency': 17937, 'magnitude': 7469.54, 'timestamp': 3690}
+2025-04-29T17:43:13 Detection received - Frequency: 17937 Hz, Magnitude: 7469.54, Client: 192.168.8.126
+2025-04-29T17:43:13 2025-04-29T17:43:13.207995 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:43:16 Received detection: {'frequency': 17765, 'magnitude': 6049.86, 'timestamp': 6604}
+2025-04-29T17:43:16 Detection received - Frequency: 17765 Hz, Magnitude: 6049.86, Client: 192.168.8.126
+2025-04-29T17:43:16 2025-04-29T17:43:16.073860 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:43:16 Received detection: {'frequency': 18131, 'magnitude': 10613.35, 'timestamp': 7109}
+2025-04-29T17:43:16 Detection received - Frequency: 18131 Hz, Magnitude: 10613.35, Client: 192.168.8.126
+2025-04-29T17:43:16 2025-04-29T17:43:16.482374 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:19 Received detection: {'frequency': 17937, 'magnitude': 6314.37, 'timestamp': 9871}
+2025-04-29T17:43:19 Detection received - Frequency: 17937 Hz, Magnitude: 6314.37, Client: 192.168.8.126
+2025-04-29T17:43:19 2025-04-29T17:43:19.348042 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:43:20 Received detection: {'frequency': 17808, 'magnitude': 5232.49, 'timestamp': 11169}
+2025-04-29T17:43:20 Detection received - Frequency: 17808 Hz, Magnitude: 5232.49, Client: 192.168.8.126
+2025-04-29T17:43:20 2025-04-29T17:43:20.582957 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:22 Received detection: {'frequency': 17700, 'magnitude': 6345.63, 'timestamp': 12662}
+2025-04-29T17:43:22 Detection received - Frequency: 17700 Hz, Magnitude: 6345.63, Client: 192.168.8.126
+2025-04-29T17:43:22 2025-04-29T17:43:22.024324 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:25 Received detection: {'frequency': 17851, 'magnitude': 6750.1, 'timestamp': 16475}
+2025-04-29T17:43:25 Detection received - Frequency: 17851 Hz, Magnitude: 6750.1, Client: 192.168.8.126
+2025-04-29T17:43:25 2025-04-29T17:43:25.832187 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:43:26 Received detection: {'frequency': 18023, 'magnitude': 5049.21, 'timestamp': 17258}
+2025-04-29T17:43:26 Detection received - Frequency: 18023 Hz, Magnitude: 5049.21, Client: 192.168.8.126
+2025-04-29T17:43:26 2025-04-29T17:43:26.598820 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:29 Received detection: {'frequency': 18174, 'magnitude': 5879.37, 'timestamp': 19996}
+2025-04-29T17:43:29 Detection received - Frequency: 18174 Hz, Magnitude: 5879.37, Client: 192.168.8.126
+2025-04-29T17:43:29 2025-04-29T17:43:29.342233 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:29 Received detection: {'frequency': 17851, 'magnitude': 11231.37, 'timestamp': 20371}
+2025-04-29T17:43:29 Detection received - Frequency: 17851 Hz, Magnitude: 11231.37, Client: 192.168.8.126
+2025-04-29T17:43:29 2025-04-29T17:43:29.721498 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:37 Received detection: {'frequency': 17959, 'magnitude': 6493.59, 'timestamp': 28634}
+2025-04-29T17:43:37 Detection received - Frequency: 17959 Hz, Magnitude: 6493.59, Client: 192.168.8.126
+2025-04-29T17:43:37 2025-04-29T17:43:37.965869 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:38 Received detection: {'frequency': 18239, 'magnitude': 16777.21, 'timestamp': 28986}
+2025-04-29T17:43:38 Detection received - Frequency: 18239 Hz, Magnitude: 16777.21, Client: 192.168.8.126
+2025-04-29T17:43:38 2025-04-29T17:43:38.501599 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:39 Received detection: {'frequency': 18066, 'magnitude': 12571.48, 'timestamp': 29798}
+2025-04-29T17:43:39 Detection received - Frequency: 18066 Hz, Magnitude: 12571.48, Client: 192.168.8.126
+2025-04-29T17:43:39 2025-04-29T17:43:39.140304 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:39 Received detection: {'frequency': 17873, 'magnitude': 15580.26, 'timestamp': 30175}
+2025-04-29T17:43:39 Detection received - Frequency: 17873 Hz, Magnitude: 15580.26, Client: 192.168.8.126
+2025-04-29T17:43:39 2025-04-29T17:43:39.516983 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:53 Health check from 192.168.8.126
+2025-04-29T17:43:53 2025-04-29T17:43:53.770114 192.168.8.126 GET /api/health 200 - 744
+2025-04-29T17:43:53 Received detection: {'frequency': 18023, 'magnitude': 142770.77, 'timestamp': 44526}
+2025-04-29T17:43:53 Detection received - Frequency: 18023 Hz, Magnitude: 142770.77, Client: 192.168.8.126
+2025-04-29T17:43:53 2025-04-29T17:43:53.867112 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:43:54 Received detection: {'frequency': 18045, 'magnitude': 31528.75, 'timestamp': 44893}
+2025-04-29T17:43:54 Detection received - Frequency: 18045 Hz, Magnitude: 31528.75, Client: 192.168.8.126
+2025-04-29T17:43:54 2025-04-29T17:43:54.369727 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:54 Received detection: {'frequency': 18023, 'magnitude': 32166.17, 'timestamp': 45393}
+2025-04-29T17:43:54 Detection received - Frequency: 18023 Hz, Magnitude: 32166.17, Client: 192.168.8.126
+2025-04-29T17:43:54 2025-04-29T17:43:54.777828 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:55 Received detection: {'frequency': 18023, 'magnitude': 31385.16, 'timestamp': 45798}
+2025-04-29T17:43:55 Detection received - Frequency: 18023 Hz, Magnitude: 31385.16, Client: 192.168.8.126
+2025-04-29T17:43:55 2025-04-29T17:43:55.293710 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:55 Received detection: {'frequency': 18045, 'magnitude': 34246.57, 'timestamp': 46318}
+2025-04-29T17:43:55 Detection received - Frequency: 18045 Hz, Magnitude: 34246.57, Client: 192.168.8.126
+2025-04-29T17:43:55 2025-04-29T17:43:55.657075 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:56 Received detection: {'frequency': 18023, 'magnitude': 50372.96, 'timestamp': 46681}
+2025-04-29T17:43:56 Detection received - Frequency: 18023 Hz, Magnitude: 50372.96, Client: 192.168.8.126
+2025-04-29T17:43:56 2025-04-29T17:43:56.017859 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:56 Received detection: {'frequency': 18066, 'magnitude': 22298.26, 'timestamp': 47037}
+2025-04-29T17:43:56 Detection received - Frequency: 18066 Hz, Magnitude: 22298.26, Client: 192.168.8.126
+2025-04-29T17:43:56 2025-04-29T17:43:56.371511 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:56 Received detection: {'frequency': 18023, 'magnitude': 72099.02, 'timestamp': 47396}
+2025-04-29T17:43:56 Detection received - Frequency: 18023 Hz, Magnitude: 72099.02, Client: 192.168.8.126
+2025-04-29T17:43:56 2025-04-29T17:43:56.823404 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:57 Received detection: {'frequency': 18002, 'magnitude': 21306.88, 'timestamp': 47850}
+2025-04-29T17:43:57 Detection received - Frequency: 18002 Hz, Magnitude: 21306.88, Client: 192.168.8.126
+2025-04-29T17:43:57 2025-04-29T17:43:57.243028 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:57 Received detection: {'frequency': 18045, 'magnitude': 65705.4, 'timestamp': 48275}
+2025-04-29T17:43:57 Detection received - Frequency: 18045 Hz, Magnitude: 65705.4, Client: 192.168.8.126
+2025-04-29T17:43:57 2025-04-29T17:43:57.612134 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:43:57 Received detection: {'frequency': 18002, 'magnitude': 79527.72, 'timestamp': 48632}
+2025-04-29T17:43:57 Detection received - Frequency: 18002 Hz, Magnitude: 79527.72, Client: 192.168.8.126
+2025-04-29T17:43:57 2025-04-29T17:43:57.970598 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:58 Received detection: {'frequency': 18002, 'magnitude': 67617.45, 'timestamp': 48993}
+2025-04-29T17:43:58 Detection received - Frequency: 18002 Hz, Magnitude: 67617.45, Client: 192.168.8.126
+2025-04-29T17:43:58 2025-04-29T17:43:58.329210 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:43:58 Received detection: {'frequency': 18023, 'magnitude': 150289.16, 'timestamp': 49353}
+2025-04-29T17:43:58 Detection received - Frequency: 18023 Hz, Magnitude: 150289.16, Client: 192.168.8.126
+2025-04-29T17:43:58 2025-04-29T17:43:58.878291 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:43:59 Received detection: {'frequency': 18023, 'magnitude': 116870.49, 'timestamp': 49898}
+2025-04-29T17:43:59 Detection received - Frequency: 18023 Hz, Magnitude: 116870.49, Client: 192.168.8.126
+2025-04-29T17:43:59 2025-04-29T17:43:59.282884 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:43:59 Received detection: {'frequency': 18045, 'magnitude': 63787.35, 'timestamp': 50306}
+2025-04-29T17:43:59 Detection received - Frequency: 18045 Hz, Magnitude: 63787.35, Client: 192.168.8.126
+2025-04-29T17:43:59 2025-04-29T17:43:59.692566 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:00 Received detection: {'frequency': 18023, 'magnitude': 52182.54, 'timestamp': 50726}
+2025-04-29T17:44:00 Detection received - Frequency: 18023 Hz, Magnitude: 52182.54, Client: 192.168.8.126
+2025-04-29T17:44:00 2025-04-29T17:44:00.064737 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:00 Received detection: {'frequency': 17980, 'magnitude': 43736.08, 'timestamp': 51099}
+2025-04-29T17:44:00 Detection received - Frequency: 17980 Hz, Magnitude: 43736.08, Client: 192.168.8.126
+2025-04-29T17:44:00 2025-04-29T17:44:00.515033 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:32 Health check from 192.168.8.126
+2025-04-29T17:44:32 2025-04-29T17:44:32.155508 192.168.8.126 GET /api/health 200 - 744
+2025-04-29T17:44:32 Received detection: {'frequency': 17700, 'magnitude': 6332.6, 'timestamp': 82909}
+2025-04-29T17:44:32 Detection received - Frequency: 17700 Hz, Magnitude: 6332.6, Client: 192.168.8.126
+2025-04-29T17:44:32 2025-04-29T17:44:32.259983 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:44:33 Received detection: {'frequency': 18023, 'magnitude': 32117.28, 'timestamp': 84071}
+2025-04-29T17:44:33 Detection received - Frequency: 18023 Hz, Magnitude: 32117.28, Client: 192.168.8.126
+2025-04-29T17:44:33 2025-04-29T17:44:33.409792 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:33 Received detection: {'frequency': 18023, 'magnitude': 134195.7, 'timestamp': 84431}
+2025-04-29T17:44:33 Detection received - Frequency: 18023 Hz, Magnitude: 134195.7, Client: 192.168.8.126
+2025-04-29T17:44:33 2025-04-29T17:44:33.907728 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:34 Received detection: {'frequency': 18023, 'magnitude': 127236.17, 'timestamp': 84931}
+2025-04-29T17:44:34 Detection received - Frequency: 18023 Hz, Magnitude: 127236.17, Client: 192.168.8.126
+2025-04-29T17:44:34 2025-04-29T17:44:34.300507 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:44:34 Received detection: {'frequency': 18023, 'magnitude': 104704.78, 'timestamp': 85319}
+2025-04-29T17:44:34 Detection received - Frequency: 18023 Hz, Magnitude: 104704.78, Client: 192.168.8.126
+2025-04-29T17:44:34 2025-04-29T17:44:34.662440 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:44:35 Received detection: {'frequency': 18023, 'magnitude': 72779.22, 'timestamp': 85691}
+2025-04-29T17:44:35 Detection received - Frequency: 18023 Hz, Magnitude: 72779.22, Client: 192.168.8.126
+2025-04-29T17:44:35 2025-04-29T17:44:35.126280 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:35 Received detection: {'frequency': 18023, 'magnitude': 85695.11, 'timestamp': 86147}
+2025-04-29T17:44:35 Detection received - Frequency: 18023 Hz, Magnitude: 85695.11, Client: 192.168.8.126
+2025-04-29T17:44:35 2025-04-29T17:44:35.483651 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:35 Received detection: {'frequency': 18002, 'magnitude': 87233.31, 'timestamp': 86508}
+2025-04-29T17:44:35 Detection received - Frequency: 18002 Hz, Magnitude: 87233.31, Client: 192.168.8.126
+2025-04-29T17:44:35 2025-04-29T17:44:35.838489 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:36 Received detection: {'frequency': 18045, 'magnitude': 103279.51, 'timestamp': 86874}
+2025-04-29T17:44:36 Detection received - Frequency: 18045 Hz, Magnitude: 103279.51, Client: 192.168.8.126
+2025-04-29T17:44:36 2025-04-29T17:44:36.245896 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:44:36 Received detection: {'frequency': 18023, 'magnitude': 43644.86, 'timestamp': 87286}
+2025-04-29T17:44:36 Detection received - Frequency: 18023 Hz, Magnitude: 43644.86, Client: 192.168.8.126
+2025-04-29T17:44:36 2025-04-29T17:44:36.622169 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:37 Received detection: {'frequency': 18023, 'magnitude': 69241.09, 'timestamp': 87656}
+2025-04-29T17:44:37 Detection received - Frequency: 18023 Hz, Magnitude: 69241.09, Client: 192.168.8.126
+2025-04-29T17:44:37 2025-04-29T17:44:37.067252 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:44:37 Received detection: {'frequency': 18002, 'magnitude': 51809.79, 'timestamp': 88273}
+2025-04-29T17:44:37 Detection received - Frequency: 18002 Hz, Magnitude: 51809.79, Client: 192.168.8.126
+2025-04-29T17:44:37 2025-04-29T17:44:37.680603 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:45:01 Received detection: {'frequency': 18023, 'magnitude': 14058.03, 'timestamp': 112634}
+2025-04-29T17:45:01 Detection received - Frequency: 18023 Hz, Magnitude: 14058.03, Client: 192.168.8.126
+2025-04-29T17:45:01 2025-04-29T17:45:01.966873 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:02 Health check from 192.168.8.126
+2025-04-29T17:45:02 2025-04-29T17:45:02.292751 192.168.8.126 GET /api/health 200 - 744
+2025-04-29T17:45:02 Received detection: {'frequency': 18023, 'magnitude': 55050.23, 'timestamp': 113045}
+2025-04-29T17:45:02 Detection received - Frequency: 18023 Hz, Magnitude: 55050.23, Client: 192.168.8.126
+2025-04-29T17:45:02 2025-04-29T17:45:02.563617 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:02 Received detection: {'frequency': 18002, 'magnitude': 53500.31, 'timestamp': 113590}
+2025-04-29T17:45:02 Detection received - Frequency: 18002 Hz, Magnitude: 53500.31, Client: 192.168.8.126
+2025-04-29T17:45:02 2025-04-29T17:45:02.973984 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:03 Received detection: {'frequency': 18045, 'magnitude': 26830.62, 'timestamp': 114000}
+2025-04-29T17:45:03 Detection received - Frequency: 18045 Hz, Magnitude: 26830.62, Client: 192.168.8.126
+2025-04-29T17:45:03 2025-04-29T17:45:03.385952 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:03 Received detection: {'frequency': 18002, 'magnitude': 37610.89, 'timestamp': 114406}
+2025-04-29T17:45:03 Detection received - Frequency: 18002 Hz, Magnitude: 37610.89, Client: 192.168.8.126
+2025-04-29T17:45:03 2025-04-29T17:45:03.744434 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:04 Received detection: {'frequency': 18045, 'magnitude': 12663.61, 'timestamp': 114763}
+2025-04-29T17:45:04 Detection received - Frequency: 18045 Hz, Magnitude: 12663.61, Client: 192.168.8.126
+2025-04-29T17:45:04 2025-04-29T17:45:04.206690 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:04 Received detection: {'frequency': 18045, 'magnitude': 12667.96, 'timestamp': 115233}
+2025-04-29T17:45:04 Detection received - Frequency: 18045 Hz, Magnitude: 12667.96, Client: 192.168.8.126
+2025-04-29T17:45:04 2025-04-29T17:45:04.714445 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:05 Received detection: {'frequency': 18002, 'magnitude': 50437.06, 'timestamp': 115745}
+2025-04-29T17:45:05 Detection received - Frequency: 18002 Hz, Magnitude: 50437.06, Client: 192.168.8.126
+2025-04-29T17:45:05 2025-04-29T17:45:05.227728 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:05 Received detection: {'frequency': 18023, 'magnitude': 69940.26, 'timestamp': 116259}
+2025-04-29T17:45:05 Detection received - Frequency: 18023 Hz, Magnitude: 69940.26, Client: 192.168.8.126
+2025-04-29T17:45:05 2025-04-29T17:45:05.597842 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:05 Received detection: {'frequency': 18023, 'magnitude': 124370.48, 'timestamp': 116632}
+2025-04-29T17:45:05 Detection received - Frequency: 18023 Hz, Magnitude: 124370.48, Client: 192.168.8.126
+2025-04-29T17:45:05 2025-04-29T17:45:05.969845 192.168.8.126 POST /api/detections 201 - 190
+2025-04-29T17:45:06 Received detection: {'frequency': 18023, 'magnitude': 29673.39, 'timestamp': 116991}
+2025-04-29T17:45:06 Detection received - Frequency: 18023 Hz, Magnitude: 29673.39, Client: 192.168.8.126
+2025-04-29T17:45:06 2025-04-29T17:45:06.330054 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:06 Received detection: {'frequency': 18023, 'magnitude': 61563.07, 'timestamp': 117350}
+2025-04-29T17:45:06 Detection received - Frequency: 18023 Hz, Magnitude: 61563.07, Client: 192.168.8.126
+2025-04-29T17:45:06 2025-04-29T17:45:06.694551 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:07 Received detection: {'frequency': 18045, 'magnitude': 81750.53, 'timestamp': 117723}
+2025-04-29T17:45:07 Detection received - Frequency: 18045 Hz, Magnitude: 81750.53, Client: 192.168.8.126
+2025-04-29T17:45:07 2025-04-29T17:45:07.059466 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:07 Received detection: {'frequency': 18066, 'magnitude': 20353.08, 'timestamp': 118071}
+2025-04-29T17:45:07 Detection received - Frequency: 18066 Hz, Magnitude: 20353.08, Client: 192.168.8.126
+2025-04-29T17:45:07 2025-04-29T17:45:07.414207 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:45:20 Received detection: {'frequency': 17873, 'magnitude': 5386.37, 'timestamp': 131588}
+2025-04-29T17:45:20 Detection received - Frequency: 17873 Hz, Magnitude: 5386.37, Client: 192.168.8.126
+2025-04-29T17:45:20 2025-04-29T17:45:20.924427 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:45:25 Received detection: {'frequency': 17851, 'magnitude': 5123.66, 'timestamp': 136162}
+2025-04-29T17:45:25 Detection received - Frequency: 17851 Hz, Magnitude: 5123.66, Client: 192.168.8.126
+2025-04-29T17:45:25 2025-04-29T17:45:25.709228 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:45:40 Health check from 192.168.8.126
+2025-04-29T17:45:40 2025-04-29T17:45:40.507903 192.168.8.126 GET /api/health 200 - 744
+2025-04-29T17:45:40 Received detection: {'frequency': 18066, 'magnitude': 5558.28, 'timestamp': 151261}
+2025-04-29T17:45:40 Detection received - Frequency: 18066 Hz, Magnitude: 5558.28, Client: 192.168.8.126
+2025-04-29T17:45:40 2025-04-29T17:45:40.590326 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:45:47 Received detection: {'frequency': 17959, 'magnitude': 5666.79, 'timestamp': 157663}
+2025-04-29T17:45:47 Detection received - Frequency: 17959 Hz, Magnitude: 5666.79, Client: 192.168.8.126
+2025-04-29T17:45:47 2025-04-29T17:45:47.110066 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:45:47 Received detection: {'frequency': 18152, 'magnitude': 6239.43, 'timestamp': 158133}
+2025-04-29T17:45:47 Detection received - Frequency: 18152 Hz, Magnitude: 6239.43, Client: 192.168.8.126
+2025-04-29T17:45:47 2025-04-29T17:45:47.616311 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:45:49 Received detection: {'frequency': 18045, 'magnitude': 6301.62, 'timestamp': 159700}
+2025-04-29T17:45:49 Detection received - Frequency: 18045 Hz, Magnitude: 6301.62, Client: 192.168.8.126
+2025-04-29T17:45:49 2025-04-29T17:45:49.031099 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:28 Health check from 192.168.8.126
+2025-04-29T17:46:28 2025-04-29T17:46:28.199299 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:46:28 Received detection: {'frequency': 17722, 'magnitude': 5074.07, 'timestamp': 199211}
+2025-04-29T17:46:28 Detection received - Frequency: 17722 Hz, Magnitude: 5074.07, Client: 192.168.8.126
+2025-04-29T17:46:28 2025-04-29T17:46:28.849453 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:34 Received detection: {'frequency': 18002, 'magnitude': 5078.47, 'timestamp': 205188}
+2025-04-29T17:46:34 Detection received - Frequency: 18002 Hz, Magnitude: 5078.47, Client: 192.168.8.126
+2025-04-29T17:46:34 2025-04-29T17:46:34.644478 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:35 Received detection: {'frequency': 18088, 'magnitude': 7199.67, 'timestamp': 206042}
+2025-04-29T17:46:35 Detection received - Frequency: 18088 Hz, Magnitude: 7199.67, Client: 192.168.8.126
+2025-04-29T17:46:35 2025-04-29T17:46:35.605882 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:36 Received detection: {'frequency': 17679, 'magnitude': 5441.71, 'timestamp': 206724}
+2025-04-29T17:46:36 Detection received - Frequency: 17679 Hz, Magnitude: 5441.71, Client: 192.168.8.126
+2025-04-29T17:46:36 2025-04-29T17:46:36.595777 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:38 Received detection: {'frequency': 18109, 'magnitude': 7184.64, 'timestamp': 208556}
+2025-04-29T17:46:38 Detection received - Frequency: 18109 Hz, Magnitude: 7184.64, Client: 192.168.8.126
+2025-04-29T17:46:38 2025-04-29T17:46:38.108329 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:40 Received detection: {'frequency': 18045, 'magnitude': 7267.56, 'timestamp': 211238}
+2025-04-29T17:46:40 Detection received - Frequency: 18045 Hz, Magnitude: 7267.56, Client: 192.168.8.126
+2025-04-29T17:46:40 2025-04-29T17:46:40.783540 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:46 Received detection: {'frequency': 17937, 'magnitude': 7175.75, 'timestamp': 217069}
+2025-04-29T17:46:46 Detection received - Frequency: 17937 Hz, Magnitude: 7175.75, Client: 192.168.8.126
+2025-04-29T17:46:46 2025-04-29T17:46:46.520847 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:46:48 Received detection: {'frequency': 18196, 'magnitude': 6090.6, 'timestamp': 219398}
+2025-04-29T17:46:48 Detection received - Frequency: 18196 Hz, Magnitude: 6090.6, Client: 192.168.8.126
+2025-04-29T17:46:48 2025-04-29T17:46:48.964378 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:46:59 Health check from 192.168.8.126
+2025-04-29T17:46:59 2025-04-29T17:46:59.454565 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:46:59 Received detection: {'frequency': 17894, 'magnitude': 5351.54, 'timestamp': 230235}
+2025-04-29T17:46:59 Detection received - Frequency: 17894 Hz, Magnitude: 5351.54, Client: 192.168.8.126
+2025-04-29T17:46:59 2025-04-29T17:46:59.823743 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:05 Received detection: {'frequency': 17765, 'magnitude': 5596.76, 'timestamp': 235845}
+2025-04-29T17:47:05 Detection received - Frequency: 17765 Hz, Magnitude: 5596.76, Client: 192.168.8.126
+2025-04-29T17:47:05 2025-04-29T17:47:05.517573 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:11 Received detection: {'frequency': 17829, 'magnitude': 7893.57, 'timestamp': 241909}
+2025-04-29T17:47:11 Detection received - Frequency: 17829 Hz, Magnitude: 7893.57, Client: 192.168.8.126
+2025-04-29T17:47:11 2025-04-29T17:47:11.399486 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:22 Received detection: {'frequency': 18023, 'magnitude': 6154.17, 'timestamp': 253471}
+2025-04-29T17:47:22 Detection received - Frequency: 18023 Hz, Magnitude: 6154.17, Client: 192.168.8.126
+2025-04-29T17:47:22 2025-04-29T17:47:22.972588 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:29 Received detection: {'frequency': 18239, 'magnitude': 6207.48, 'timestamp': 259678}
+2025-04-29T17:47:29 Detection received - Frequency: 18239 Hz, Magnitude: 6207.48, Client: 192.168.8.126
+2025-04-29T17:47:29 2025-04-29T17:47:29.024739 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:29 Received detection: {'frequency': 18109, 'magnitude': 7208.14, 'timestamp': 260060}
+2025-04-29T17:47:29 Detection received - Frequency: 18109 Hz, Magnitude: 7208.14, Client: 192.168.8.126
+2025-04-29T17:47:29 2025-04-29T17:47:29.397399 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:29 Health check from 192.168.8.126
+2025-04-29T17:47:29 2025-04-29T17:47:29.755479 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:47:29 Received detection: {'frequency': 17743, 'magnitude': 5126.98, 'timestamp': 260506}
+2025-04-29T17:47:29 Detection received - Frequency: 17743 Hz, Magnitude: 5126.98, Client: 192.168.8.126
+2025-04-29T17:47:29 2025-04-29T17:47:29.930735 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:34 Received detection: {'frequency': 18023, 'magnitude': 6606.51, 'timestamp': 265428}
+2025-04-29T17:47:34 Detection received - Frequency: 18023 Hz, Magnitude: 6606.51, Client: 192.168.8.126
+2025-04-29T17:47:34 2025-04-29T17:47:34.765071 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:38 Received detection: {'frequency': 18023, 'magnitude': 11210.69, 'timestamp': 268943}
+2025-04-29T17:47:38 Detection received - Frequency: 18023 Hz, Magnitude: 11210.69, Client: 192.168.8.126
+2025-04-29T17:47:38 2025-04-29T17:47:38.320039 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:47:43 Received detection: {'frequency': 18066, 'magnitude': 13363.11, 'timestamp': 274601}
+2025-04-29T17:47:43 Detection received - Frequency: 18066 Hz, Magnitude: 13363.11, Client: 192.168.8.126
+2025-04-29T17:47:43 2025-04-29T17:47:43.942414 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:47:44 Received detection: {'frequency': 18131, 'magnitude': 17672.92, 'timestamp': 275223}
+2025-04-29T17:47:44 Detection received - Frequency: 18131 Hz, Magnitude: 17672.92, Client: 192.168.8.126
+2025-04-29T17:47:44 2025-04-29T17:47:44.666374 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:47:45 Received detection: {'frequency': 18088, 'magnitude': 5829.45, 'timestamp': 275736}
+2025-04-29T17:47:45 Detection received - Frequency: 18088 Hz, Magnitude: 5829.45, Client: 192.168.8.126
+2025-04-29T17:47:45 2025-04-29T17:47:45.176014 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:50 Received detection: {'frequency': 17851, 'magnitude': 6597.48, 'timestamp': 280679}
+2025-04-29T17:47:50 Detection received - Frequency: 17851 Hz, Magnitude: 6597.48, Client: 192.168.8.126
+2025-04-29T17:47:50 2025-04-29T17:47:50.019976 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:50 Received detection: {'frequency': 17894, 'magnitude': 12232.32, 'timestamp': 281052}
+2025-04-29T17:47:50 Detection received - Frequency: 17894 Hz, Magnitude: 12232.32, Client: 192.168.8.126
+2025-04-29T17:47:50 2025-04-29T17:47:50.385286 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:47:50 Received detection: {'frequency': 18196, 'magnitude': 5232.58, 'timestamp': 281671}
+2025-04-29T17:47:51 Detection received - Frequency: 18196 Hz, Magnitude: 5232.58, Client: 192.168.8.126
+2025-04-29T17:47:51 2025-04-29T17:47:51.005933 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:51 Received detection: {'frequency': 17722, 'magnitude': 17311.98, 'timestamp': 282041}
+2025-04-29T17:47:51 Detection received - Frequency: 17722 Hz, Magnitude: 17311.98, Client: 192.168.8.126
+2025-04-29T17:47:51 2025-04-29T17:47:51.423028 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:47:53 Received detection: {'frequency': 17722, 'magnitude': 6767.36, 'timestamp': 283763}
+2025-04-29T17:47:53 Detection received - Frequency: 17722 Hz, Magnitude: 6767.36, Client: 192.168.8.126
+2025-04-29T17:47:53 2025-04-29T17:47:53.167380 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:53 Received detection: {'frequency': 17829, 'magnitude': 5860.18, 'timestamp': 284194}
+2025-04-29T17:47:53 Detection received - Frequency: 17829 Hz, Magnitude: 5860.18, Client: 192.168.8.126
+2025-04-29T17:47:53 2025-04-29T17:47:53.880385 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:54 Received detection: {'frequency': 17700, 'magnitude': 6841.76, 'timestamp': 284905}
+2025-04-29T17:47:54 Detection received - Frequency: 17700 Hz, Magnitude: 6841.76, Client: 192.168.8.126
+2025-04-29T17:47:54 2025-04-29T17:47:54.398156 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:47:59 Received detection: {'frequency': 17679, 'magnitude': 8356.05, 'timestamp': 289886}
+2025-04-29T17:47:59 Detection received - Frequency: 17679 Hz, Magnitude: 8356.05, Client: 192.168.8.126
+2025-04-29T17:47:59 2025-04-29T17:47:59.312429 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:04 Health check from 192.168.8.126
+2025-04-29T17:48:04 2025-04-29T17:48:04.668967 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:48:04 Received detection: {'frequency': 18217, 'magnitude': 7225.31, 'timestamp': 295464}
+2025-04-29T17:48:04 Detection received - Frequency: 18217 Hz, Magnitude: 7225.31, Client: 192.168.8.126
+2025-04-29T17:48:04 2025-04-29T17:48:04.951725 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:10 Received detection: {'frequency': 17937, 'magnitude': 10082.76, 'timestamp': 300971}
+2025-04-29T17:48:10 Detection received - Frequency: 17937 Hz, Magnitude: 10082.76, Client: 192.168.8.126
+2025-04-29T17:48:10 2025-04-29T17:48:10.375981 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:48:10 Received detection: {'frequency': 17937, 'magnitude': 15414.56, 'timestamp': 301398}
+2025-04-29T17:48:11 Detection received - Frequency: 17937 Hz, Magnitude: 15414.56, Client: 192.168.8.126
+2025-04-29T17:48:11 2025-04-29T17:48:11.008215 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:48:13 Received detection: {'frequency': 17980, 'magnitude': 5374.75, 'timestamp': 304406}
+2025-04-29T17:48:13 Detection received - Frequency: 17980 Hz, Magnitude: 5374.75, Client: 192.168.8.126
+2025-04-29T17:48:13 2025-04-29T17:48:13.852714 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:16 Received detection: {'frequency': 17722, 'magnitude': 6548.08, 'timestamp': 306993}
+2025-04-29T17:48:16 Detection received - Frequency: 17722 Hz, Magnitude: 6548.08, Client: 192.168.8.126
+2025-04-29T17:48:16 2025-04-29T17:48:16.329654 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:20 Received detection: {'frequency': 18066, 'magnitude': 6958.22, 'timestamp': 310769}
+2025-04-29T17:48:20 Detection received - Frequency: 18066 Hz, Magnitude: 6958.22, Client: 192.168.8.126
+2025-04-29T17:48:20 2025-04-29T17:48:20.110286 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:20 Received detection: {'frequency': 17851, 'magnitude': 16528.31, 'timestamp': 311128}
+2025-04-29T17:48:20 Detection received - Frequency: 17851 Hz, Magnitude: 16528.31, Client: 192.168.8.126
+2025-04-29T17:48:20 2025-04-29T17:48:20.467611 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:48:23 Received detection: {'frequency': 17722, 'magnitude': 13624.15, 'timestamp': 314120}
+2025-04-29T17:48:23 Detection received - Frequency: 17722 Hz, Magnitude: 13624.15, Client: 192.168.8.126
+2025-04-29T17:48:23 2025-04-29T17:48:23.473795 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:48:24 Received detection: {'frequency': 18066, 'magnitude': 13406.82, 'timestamp': 315022}
+2025-04-29T17:48:24 Detection received - Frequency: 18066 Hz, Magnitude: 13406.82, Client: 192.168.8.126
+2025-04-29T17:48:24 2025-04-29T17:48:24.396991 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:48:26 Received detection: {'frequency': 17765, 'magnitude': 9147.32, 'timestamp': 316742}
+2025-04-29T17:48:26 Detection received - Frequency: 17765 Hz, Magnitude: 9147.32, Client: 192.168.8.126
+2025-04-29T17:48:26 2025-04-29T17:48:26.211010 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:26 Received detection: {'frequency': 18109, 'magnitude': 5931.21, 'timestamp': 317340}
+2025-04-29T17:48:26 Detection received - Frequency: 18109 Hz, Magnitude: 5931.21, Client: 192.168.8.126
+2025-04-29T17:48:26 2025-04-29T17:48:26.757665 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:30 Received detection: {'frequency': 18217, 'magnitude': 16086.14, 'timestamp': 320739}
+2025-04-29T17:48:30 Detection received - Frequency: 18217 Hz, Magnitude: 16086.14, Client: 192.168.8.126
+2025-04-29T17:48:30 2025-04-29T17:48:30.134705 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:48:32 Received detection: {'frequency': 18282, 'magnitude': 6904.71, 'timestamp': 322996}
+2025-04-29T17:48:32 Detection received - Frequency: 18282 Hz, Magnitude: 6904.71, Client: 192.168.8.126
+2025-04-29T17:48:32 2025-04-29T17:48:32.387725 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:32 Received detection: {'frequency': 17743, 'magnitude': 6406.41, 'timestamp': 323409}
+2025-04-29T17:48:32 Detection received - Frequency: 17743 Hz, Magnitude: 6406.41, Client: 192.168.8.126
+2025-04-29T17:48:32 2025-04-29T17:48:32.840504 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:35 Health check from 192.168.8.126
+2025-04-29T17:48:35 2025-04-29T17:48:35.329228 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:48:35 Received detection: {'frequency': 18174, 'magnitude': 5273.63, 'timestamp': 326290}
+2025-04-29T17:48:35 Detection received - Frequency: 18174 Hz, Magnitude: 5273.63, Client: 192.168.8.126
+2025-04-29T17:48:35 2025-04-29T17:48:35.770870 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:36 Received detection: {'frequency': 17873, 'magnitude': 5673.71, 'timestamp': 326803}
+2025-04-29T17:48:36 Detection received - Frequency: 17873 Hz, Magnitude: 5673.71, Client: 192.168.8.126
+2025-04-29T17:48:36 2025-04-29T17:48:36.604783 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:45 Received detection: {'frequency': 18088, 'magnitude': 5498.92, 'timestamp': 335876}
+2025-04-29T17:48:45 Detection received - Frequency: 18088 Hz, Magnitude: 5498.92, Client: 192.168.8.126
+2025-04-29T17:48:45 2025-04-29T17:48:45.295182 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:51 Received detection: {'frequency': 17894, 'magnitude': 7536.37, 'timestamp': 342114}
+2025-04-29T17:48:51 Detection received - Frequency: 17894 Hz, Magnitude: 7536.37, Client: 192.168.8.126
+2025-04-29T17:48:51 2025-04-29T17:48:51.640424 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:54 Received detection: {'frequency': 17873, 'magnitude': 7773.31, 'timestamp': 345307}
+2025-04-29T17:48:54 Detection received - Frequency: 17873 Hz, Magnitude: 7773.31, Client: 192.168.8.126
+2025-04-29T17:48:54 2025-04-29T17:48:54.856650 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:55 Received detection: {'frequency': 17679, 'magnitude': 8348.32, 'timestamp': 346430}
+2025-04-29T17:48:56 Detection received - Frequency: 17679 Hz, Magnitude: 8348.32, Client: 192.168.8.126
+2025-04-29T17:48:56 2025-04-29T17:48:56.211798 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:57 Received detection: {'frequency': 17873, 'magnitude': 5707.38, 'timestamp': 347864}
+2025-04-29T17:48:57 Detection received - Frequency: 17873 Hz, Magnitude: 5707.38, Client: 192.168.8.126
+2025-04-29T17:48:57 2025-04-29T17:48:57.513050 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:48:59 Received detection: {'frequency': 17700, 'magnitude': 6947.65, 'timestamp': 349098}
+2025-04-29T17:49:00 Detection received - Frequency: 17700 Hz, Magnitude: 6947.65, Client: 192.168.8.126
+2025-04-29T17:49:01 2025-04-29T17:49:01.156063 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:11 Health check from 192.168.8.126
+2025-04-29T17:49:11 2025-04-29T17:49:11.246077 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:49:11 Received detection: {'frequency': 18260, 'magnitude': 7066.56, 'timestamp': 362025}
+2025-04-29T17:49:11 Detection received - Frequency: 18260 Hz, Magnitude: 7066.56, Client: 192.168.8.126
+2025-04-29T17:49:11 2025-04-29T17:49:11.564498 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:13 Received detection: {'frequency': 18066, 'magnitude': 6337.7, 'timestamp': 363913}
+2025-04-29T17:49:13 Detection received - Frequency: 18066 Hz, Magnitude: 6337.7, Client: 192.168.8.126
+2025-04-29T17:49:13 2025-04-29T17:49:13.716137 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:49:15 Received detection: {'frequency': 17786, 'magnitude': 5945.74, 'timestamp': 366364}
+2025-04-29T17:49:15 Detection received - Frequency: 17786 Hz, Magnitude: 5945.74, Client: 192.168.8.126
+2025-04-29T17:49:15 2025-04-29T17:49:15.874063 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:24 Received detection: {'frequency': 17916, 'magnitude': 7584.3, 'timestamp': 375321}
+2025-04-29T17:49:24 Detection received - Frequency: 17916 Hz, Magnitude: 7584.3, Client: 192.168.8.126
+2025-04-29T17:49:24 2025-04-29T17:49:24.826910 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:49:25 Received detection: {'frequency': 17980, 'magnitude': 5442.35, 'timestamp': 375851}
+2025-04-29T17:49:25 Detection received - Frequency: 17980 Hz, Magnitude: 5442.35, Client: 192.168.8.126
+2025-04-29T17:49:25 2025-04-29T17:49:25.656123 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:27 Received detection: {'frequency': 17937, 'magnitude': 6051.31, 'timestamp': 377762}
+2025-04-29T17:49:27 Detection received - Frequency: 17937 Hz, Magnitude: 6051.31, Client: 192.168.8.126
+2025-04-29T17:49:27 2025-04-29T17:49:27.297463 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:28 Received detection: {'frequency': 17743, 'magnitude': 5062.07, 'timestamp': 378747}
+2025-04-29T17:49:28 Detection received - Frequency: 17743 Hz, Magnitude: 5062.07, Client: 192.168.8.126
+2025-04-29T17:49:28 2025-04-29T17:49:28.438917 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:30 Received detection: {'frequency': 18023, 'magnitude': 6821.98, 'timestamp': 381166}
+2025-04-29T17:49:30 Detection received - Frequency: 18023 Hz, Magnitude: 6821.98, Client: 192.168.8.126
+2025-04-29T17:49:30 2025-04-29T17:49:30.751507 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:54 Health check from 192.168.8.126
+2025-04-29T17:49:54 2025-04-29T17:49:54.229238 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:49:54 Received detection: {'frequency': 18002, 'magnitude': 6564.87, 'timestamp': 404982}
+2025-04-29T17:49:54 Detection received - Frequency: 18002 Hz, Magnitude: 6564.87, Client: 192.168.8.126
+2025-04-29T17:49:54 2025-04-29T17:49:54.506430 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:55 Received detection: {'frequency': 18282, 'magnitude': 5645.11, 'timestamp': 406314}
+2025-04-29T17:49:55 Detection received - Frequency: 18282 Hz, Magnitude: 5645.11, Client: 192.168.8.126
+2025-04-29T17:49:55 2025-04-29T17:49:55.741001 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:49:58 Received detection: {'frequency': 18196, 'magnitude': 5903.4, 'timestamp': 409400}
+2025-04-29T17:49:58 Detection received - Frequency: 18196 Hz, Magnitude: 5903.4, Client: 192.168.8.126
+2025-04-29T17:49:58 2025-04-29T17:49:58.810756 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:50:06 Received detection: {'frequency': 17743, 'magnitude': 7412.2, 'timestamp': 416947}
+2025-04-29T17:50:06 Detection received - Frequency: 17743 Hz, Magnitude: 7412.2, Client: 192.168.8.126
+2025-04-29T17:50:06 2025-04-29T17:50:06.289004 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:50:09 Received detection: {'frequency': 18282, 'magnitude': 8977.14, 'timestamp': 419675}
+2025-04-29T17:50:09 Detection received - Frequency: 18282 Hz, Magnitude: 8977.14, Client: 192.168.8.126
+2025-04-29T17:50:09 2025-04-29T17:50:09.025321 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:50:21 Received detection: {'frequency': 17916, 'magnitude': 6451.59, 'timestamp': 432412}
+2025-04-29T17:50:21 Detection received - Frequency: 17916 Hz, Magnitude: 6451.59, Client: 192.168.8.126
+2025-04-29T17:50:21 2025-04-29T17:50:21.847370 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:50:33 Health check from 192.168.8.126
+2025-04-29T17:50:33 2025-04-29T17:50:33.249502 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:50:33 Received detection: {'frequency': 17722, 'magnitude': 5704.24, 'timestamp': 444043}
+2025-04-29T17:50:33 Detection received - Frequency: 17722 Hz, Magnitude: 5704.24, Client: 192.168.8.126
+2025-04-29T17:50:33 2025-04-29T17:50:33.382547 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:50:39 Received detection: {'frequency': 18282, 'magnitude': 5923.17, 'timestamp': 449661}
+2025-04-29T17:50:39 Detection received - Frequency: 18282 Hz, Magnitude: 5923.17, Client: 192.168.8.126
+2025-04-29T17:50:39 2025-04-29T17:50:39.051929 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:51:10 Health check from 192.168.8.126
+2025-04-29T17:51:10 2025-04-29T17:51:10.150183 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:51:10 Received detection: {'frequency': 18023, 'magnitude': 6504.97, 'timestamp': 480923}
+2025-04-29T17:51:10 Detection received - Frequency: 18023 Hz, Magnitude: 6504.97, Client: 192.168.8.126
+2025-04-29T17:51:10 2025-04-29T17:51:10.258599 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:51:29 Received detection: {'frequency': 17873, 'magnitude': 7717.96, 'timestamp': 500215}
+2025-04-29T17:51:29 Detection received - Frequency: 17873 Hz, Magnitude: 7717.96, Client: 192.168.8.126
+2025-04-29T17:51:29 2025-04-29T17:51:29.546893 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:51:50 Health check from 192.168.8.126
+2025-04-29T17:51:50 2025-04-29T17:51:50.121057 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:51:50 Received detection: {'frequency': 17959, 'magnitude': 6570.97, 'timestamp': 520869}
+2025-04-29T17:51:50 Detection received - Frequency: 17959 Hz, Magnitude: 6570.97, Client: 192.168.8.126
+2025-04-29T17:51:50 2025-04-29T17:51:50.207933 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:52:16 Received detection: {'frequency': 17679, 'magnitude': 6604.14, 'timestamp': 547543}
+2025-04-29T17:52:16 Detection received - Frequency: 17679 Hz, Magnitude: 6604.14, Client: 192.168.8.126
+2025-04-29T17:52:16 2025-04-29T17:52:16.950177 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:52:28 Health check from 192.168.8.126
+2025-04-29T17:52:28 2025-04-29T17:52:28.843915 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:52:28 Received detection: {'frequency': 18023, 'magnitude': 6100.84, 'timestamp': 559593}
+2025-04-29T17:52:28 Detection received - Frequency: 18023 Hz, Magnitude: 6100.84, Client: 192.168.8.126
+2025-04-29T17:52:28 2025-04-29T17:52:28.927823 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:52:30 Received detection: {'frequency': 18282, 'magnitude': 6811.4, 'timestamp': 560997}
+2025-04-29T17:52:30 Detection received - Frequency: 18282 Hz, Magnitude: 6811.4, Client: 192.168.8.126
+2025-04-29T17:52:30 2025-04-29T17:52:30.331215 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:52:30 Received detection: {'frequency': 18066, 'magnitude': 6880.56, 'timestamp': 561362}
+2025-04-29T17:52:30 Detection received - Frequency: 18066 Hz, Magnitude: 6880.56, Client: 192.168.8.126
+2025-04-29T17:52:30 2025-04-29T17:52:30.699290 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:52:31 Received detection: {'frequency': 18023, 'magnitude': 10039.53, 'timestamp': 561718}
+2025-04-29T17:52:31 Detection received - Frequency: 18023 Hz, Magnitude: 10039.53, Client: 192.168.8.126
+2025-04-29T17:52:31 2025-04-29T17:52:31.181388 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:52:31 Received detection: {'frequency': 17679, 'magnitude': 6910.4, 'timestamp': 562480}
+2025-04-29T17:52:31 Detection received - Frequency: 17679 Hz, Magnitude: 6910.4, Client: 192.168.8.126
+2025-04-29T17:52:31 2025-04-29T17:52:31.822045 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:52:32 Received detection: {'frequency': 18282, 'magnitude': 9114.34, 'timestamp': 562852}
+2025-04-29T17:52:32 Detection received - Frequency: 18282 Hz, Magnitude: 9114.34, Client: 192.168.8.126
+2025-04-29T17:52:32 2025-04-29T17:52:32.203764 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:52:33 Received detection: {'frequency': 18023, 'magnitude': 7264.11, 'timestamp': 564293}
+2025-04-29T17:52:33 Detection received - Frequency: 18023 Hz, Magnitude: 7264.11, Client: 192.168.8.126
+2025-04-29T17:52:33 2025-04-29T17:52:33.749967 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:52:42 Health check from 192.168.8.126
+2025-04-29T17:52:42 2025-04-29T17:52:42.890927 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:52:43 Received detection: {'frequency': 18023, 'magnitude': 7479.98, 'timestamp': 3080}
+2025-04-29T17:52:43 Detection received - Frequency: 18023 Hz, Magnitude: 7479.98, Client: 192.168.8.126
+2025-04-29T17:52:43 2025-04-29T17:52:43.648837 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:53:14 Health check from 192.168.8.126
+2025-04-29T17:53:14 2025-04-29T17:53:14.054845 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:53:14 Received detection: {'frequency': 18152, 'magnitude': 6023.88, 'timestamp': 34031}
+2025-04-29T17:53:14 Detection received - Frequency: 18152 Hz, Magnitude: 6023.88, Client: 192.168.8.126
+2025-04-29T17:53:14 2025-04-29T17:53:14.191635 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:53:14 Received detection: {'frequency': 18152, 'magnitude': 5879.49, 'timestamp': 34706}
+2025-04-29T17:53:14 Detection received - Frequency: 18152 Hz, Magnitude: 5879.49, Client: 192.168.8.126
+2025-04-29T17:53:14 2025-04-29T17:53:14.824462 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:53:22 Received detection: {'frequency': 17894, 'magnitude': 5411.12, 'timestamp': 42181}
+2025-04-29T17:53:22 Detection received - Frequency: 17894 Hz, Magnitude: 5411.12, Client: 192.168.8.126
+2025-04-29T17:53:22 2025-04-29T17:53:22.293558 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:53:43 Received detection: {'frequency': 17829, 'magnitude': 7239.61, 'timestamp': 63840}
+2025-04-29T17:53:43 Detection received - Frequency: 17829 Hz, Magnitude: 7239.61, Client: 192.168.8.126
+2025-04-29T17:53:43 2025-04-29T17:53:43.953025 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:54:08 Health check from 192.168.8.126
+2025-04-29T17:54:08 2025-04-29T17:54:08.734404 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:54:08 Received detection: {'frequency': 18066, 'magnitude': 6676.53, 'timestamp': 88826}
+2025-04-29T17:54:08 Detection received - Frequency: 18066 Hz, Magnitude: 6676.53, Client: 192.168.8.126
+2025-04-29T17:54:08 2025-04-29T17:54:08.970496 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:54:11 Received detection: {'frequency': 17873, 'magnitude': 6207.47, 'timestamp': 91854}
+2025-04-29T17:54:11 Detection received - Frequency: 17873 Hz, Magnitude: 6207.47, Client: 192.168.8.126
+2025-04-29T17:54:11 2025-04-29T17:54:11.964586 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:54:39 Health check from 192.168.8.126
+2025-04-29T17:54:39 2025-04-29T17:54:39.383229 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:54:39 Received detection: {'frequency': 18260, 'magnitude': 5152.13, 'timestamp': 119361}
+2025-04-29T17:54:39 Detection received - Frequency: 18260 Hz, Magnitude: 5152.13, Client: 192.168.8.126
+2025-04-29T17:54:39 2025-04-29T17:54:39.468284 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:55:17 Health check from 192.168.8.126
+2025-04-29T17:55:17 2025-04-29T17:55:17.404882 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:55:17 Received detection: {'frequency': 17894, 'magnitude': 5552.78, 'timestamp': 157375}
+2025-04-29T17:55:17 Detection received - Frequency: 17894 Hz, Magnitude: 5552.78, Client: 192.168.8.126
+2025-04-29T17:55:17 2025-04-29T17:55:17.577058 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:55:19 Received detection: {'frequency': 17679, 'magnitude': 5565.26, 'timestamp': 159666}
+2025-04-29T17:55:19 Detection received - Frequency: 17679 Hz, Magnitude: 5565.26, Client: 192.168.8.126
+2025-04-29T17:55:19 2025-04-29T17:55:19.832371 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:55:25 Received detection: {'frequency': 17808, 'magnitude': 6129.22, 'timestamp': 165076}
+2025-04-29T17:55:25 Detection received - Frequency: 17808 Hz, Magnitude: 6129.22, Client: 192.168.8.126
+2025-04-29T17:55:25 2025-04-29T17:55:25.189706 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:55:27 Received detection: {'frequency': 18109, 'magnitude': 6658.49, 'timestamp': 167547}
+2025-04-29T17:55:27 Detection received - Frequency: 18109 Hz, Magnitude: 6658.49, Client: 192.168.8.126
+2025-04-29T17:55:27 2025-04-29T17:55:27.710400 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:55:32 Received detection: {'frequency': 17786, 'magnitude': 5502.94, 'timestamp': 172698}
+2025-04-29T17:55:32 Detection received - Frequency: 17786 Hz, Magnitude: 5502.94, Client: 192.168.8.126
+2025-04-29T17:55:32 2025-04-29T17:55:32.831340 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:55:38 Received detection: {'frequency': 18217, 'magnitude': 12932.62, 'timestamp': 178333}
+2025-04-29T17:55:38 Detection received - Frequency: 18217 Hz, Magnitude: 12932.62, Client: 192.168.8.126
+2025-04-29T17:55:38 2025-04-29T17:55:38.478932 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:55:39 Received detection: {'frequency': 18282, 'magnitude': 5220.27, 'timestamp': 179515}
+2025-04-29T17:55:39 Detection received - Frequency: 18282 Hz, Magnitude: 5220.27, Client: 192.168.8.126
+2025-04-29T17:55:39 2025-04-29T17:55:39.691725 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:55:46 Received detection: {'frequency': 17679, 'magnitude': 5720.31, 'timestamp': 186777}
+2025-04-29T17:55:46 Detection received - Frequency: 17679 Hz, Magnitude: 5720.31, Client: 192.168.8.126
+2025-04-29T17:55:46 2025-04-29T17:55:46.893048 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:56:19 Health check from 192.168.8.126
+2025-04-29T17:56:19 2025-04-29T17:56:19.402527 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:56:19 Received detection: {'frequency': 18131, 'magnitude': 60146.0, 'timestamp': 3245}
+2025-04-29T17:56:19 Detection received - Frequency: 18131 Hz, Magnitude: 60146.0, Client: 192.168.8.126
+2025-04-29T17:56:19 2025-04-29T17:56:19.704878 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:56:26 Received detection: {'frequency': 18002, 'magnitude': 69031.0, 'timestamp': 9924}
+2025-04-29T17:56:26 Detection received - Frequency: 18002 Hz, Magnitude: 69031.0, Client: 192.168.8.126
+2025-04-29T17:56:26 2025-04-29T17:56:26.491576 192.168.8.126 POST /api/detections 201 - 186
+2025-04-29T17:56:26 Received detection: {'frequency': 18023, 'magnitude': 46860.0, 'timestamp': 10412}
+2025-04-29T17:56:26 Detection received - Frequency: 18023 Hz, Magnitude: 46860.0, Client: 192.168.8.126
+2025-04-29T17:56:26 2025-04-29T17:56:26.873635 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:27 Received detection: {'frequency': 18002, 'magnitude': 54860.0, 'timestamp': 10766}
+2025-04-29T17:56:27 Detection received - Frequency: 18002 Hz, Magnitude: 54860.0, Client: 192.168.8.126
+2025-04-29T17:56:27 2025-04-29T17:56:27.229097 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:27 Received detection: {'frequency': 18045, 'magnitude': 59998.0, 'timestamp': 11123}
+2025-04-29T17:56:27 Detection received - Frequency: 18045 Hz, Magnitude: 59998.0, Client: 192.168.8.126
+2025-04-29T17:56:27 2025-04-29T17:56:27.607037 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:28 Received detection: {'frequency': 18023, 'magnitude': 51393.0, 'timestamp': 11525}
+2025-04-29T17:56:28 Detection received - Frequency: 18023 Hz, Magnitude: 51393.0, Client: 192.168.8.126
+2025-04-29T17:56:28 2025-04-29T17:56:28.028589 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:28 Received detection: {'frequency': 18002, 'magnitude': 32153.0, 'timestamp': 11930}
+2025-04-29T17:56:28 Detection received - Frequency: 18002 Hz, Magnitude: 32153.0, Client: 192.168.8.126
+2025-04-29T17:56:28 2025-04-29T17:56:28.395957 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:28 Received detection: {'frequency': 18045, 'magnitude': 38091.0, 'timestamp': 12289}
+2025-04-29T17:56:28 Detection received - Frequency: 18045 Hz, Magnitude: 38091.0, Client: 192.168.8.126
+2025-04-29T17:56:28 2025-04-29T17:56:28.761809 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:29 Received detection: {'frequency': 18002, 'magnitude': 51987.0, 'timestamp': 12661}
+2025-04-29T17:56:29 Detection received - Frequency: 18002 Hz, Magnitude: 51987.0, Client: 192.168.8.126
+2025-04-29T17:56:29 2025-04-29T17:56:29.257431 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:29 Received detection: {'frequency': 18023, 'magnitude': 43282.0, 'timestamp': 13160}
+2025-04-29T17:56:29 Detection received - Frequency: 18023 Hz, Magnitude: 43282.0, Client: 192.168.8.126
+2025-04-29T17:56:29 2025-04-29T17:56:29.622357 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:30 Received detection: {'frequency': 18045, 'magnitude': 115481.0, 'timestamp': 13516}
+2025-04-29T17:56:30 Detection received - Frequency: 18045 Hz, Magnitude: 115481.0, Client: 192.168.8.126
+2025-04-29T17:56:30 2025-04-29T17:56:30.075064 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:56:30 Received detection: {'frequency': 18002, 'magnitude': 97713.0, 'timestamp': 13965}
+2025-04-29T17:56:30 Detection received - Frequency: 18002 Hz, Magnitude: 97713.0, Client: 192.168.8.126
+2025-04-29T17:56:30 2025-04-29T17:56:30.426823 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:30 Received detection: {'frequency': 18002, 'magnitude': 82095.0, 'timestamp': 14320}
+2025-04-29T17:56:30 Detection received - Frequency: 18002 Hz, Magnitude: 82095.0, Client: 192.168.8.126
+2025-04-29T17:56:30 2025-04-29T17:56:30.779915 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:31 Received detection: {'frequency': 18045, 'magnitude': 62425.0, 'timestamp': 14676}
+2025-04-29T17:56:31 Detection received - Frequency: 18045 Hz, Magnitude: 62425.0, Client: 192.168.8.126
+2025-04-29T17:56:31 2025-04-29T17:56:31.203275 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:31 Received detection: {'frequency': 18045, 'magnitude': 71733.0, 'timestamp': 15113}
+2025-04-29T17:56:31 Detection received - Frequency: 18045 Hz, Magnitude: 71733.0, Client: 192.168.8.126
+2025-04-29T17:56:31 2025-04-29T17:56:31.610782 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:32 Received detection: {'frequency': 18045, 'magnitude': 69833.0, 'timestamp': 15517}
+2025-04-29T17:56:32 Detection received - Frequency: 18045 Hz, Magnitude: 69833.0, Client: 192.168.8.126
+2025-04-29T17:56:32 2025-04-29T17:56:32.020769 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:32 Received detection: {'frequency': 18023, 'magnitude': 157593.0, 'timestamp': 15921}
+2025-04-29T17:56:32 Detection received - Frequency: 18023 Hz, Magnitude: 157593.0, Client: 192.168.8.126
+2025-04-29T17:56:32 2025-04-29T17:56:32.434485 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:56:32 Received detection: {'frequency': 18045, 'magnitude': 104066.0, 'timestamp': 16340}
+2025-04-29T17:56:32 Detection received - Frequency: 18045 Hz, Magnitude: 104066.0, Client: 192.168.8.126
+2025-04-29T17:56:32 2025-04-29T17:56:32.794607 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:56:33 Received detection: {'frequency': 18002, 'magnitude': 55999.0, 'timestamp': 16697}
+2025-04-29T17:56:33 Detection received - Frequency: 18002 Hz, Magnitude: 55999.0, Client: 192.168.8.126
+2025-04-29T17:56:33 2025-04-29T17:56:33.246863 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:33 Received detection: {'frequency': 18002, 'magnitude': 45041.0, 'timestamp': 17151}
+2025-04-29T17:56:33 Detection received - Frequency: 18002 Hz, Magnitude: 45041.0, Client: 192.168.8.126
+2025-04-29T17:56:33 2025-04-29T17:56:33.613585 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:34 Received detection: {'frequency': 18002, 'magnitude': 54809.0, 'timestamp': 17507}
+2025-04-29T17:56:34 Detection received - Frequency: 18002 Hz, Magnitude: 54809.0, Client: 192.168.8.126
+2025-04-29T17:56:34 2025-04-29T17:56:34.066767 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:34 Received detection: {'frequency': 18002, 'magnitude': 91792.0, 'timestamp': 17960}
+2025-04-29T17:56:34 Detection received - Frequency: 18002 Hz, Magnitude: 91792.0, Client: 192.168.8.126
+2025-04-29T17:56:34 2025-04-29T17:56:34.422413 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:34 Received detection: {'frequency': 18045, 'magnitude': 54556.0, 'timestamp': 18316}
+2025-04-29T17:56:34 Detection received - Frequency: 18045 Hz, Magnitude: 54556.0, Client: 192.168.8.126
+2025-04-29T17:56:34 2025-04-29T17:56:34.882706 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:35 Received detection: {'frequency': 18002, 'magnitude': 111705.0, 'timestamp': 18781}
+2025-04-29T17:56:35 Detection received - Frequency: 18002 Hz, Magnitude: 111705.0, Client: 192.168.8.126
+2025-04-29T17:56:35 2025-04-29T17:56:35.247501 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:56:35 Received detection: {'frequency': 18045, 'magnitude': 85863.0, 'timestamp': 19152}
+2025-04-29T17:56:35 Detection received - Frequency: 18045 Hz, Magnitude: 85863.0, Client: 192.168.8.126
+2025-04-29T17:56:35 2025-04-29T17:56:35.614192 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:35 Received detection: {'frequency': 18002, 'magnitude': 65770.0, 'timestamp': 19509}
+2025-04-29T17:56:35 Detection received - Frequency: 18002 Hz, Magnitude: 65770.0, Client: 192.168.8.126
+2025-04-29T17:56:35 2025-04-29T17:56:35.973492 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:36 Received detection: {'frequency': 18023, 'magnitude': 73039.0, 'timestamp': 19883}
+2025-04-29T17:56:36 Detection received - Frequency: 18023 Hz, Magnitude: 73039.0, Client: 192.168.8.126
+2025-04-29T17:56:36 2025-04-29T17:56:36.426976 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:36 Received detection: {'frequency': 18045, 'magnitude': 72880.0, 'timestamp': 20334}
+2025-04-29T17:56:36 Detection received - Frequency: 18045 Hz, Magnitude: 72880.0, Client: 192.168.8.126
+2025-04-29T17:56:36 2025-04-29T17:56:36.792249 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:37 Received detection: {'frequency': 18002, 'magnitude': 94354.0, 'timestamp': 20703}
+2025-04-29T17:56:37 Detection received - Frequency: 18002 Hz, Magnitude: 94354.0, Client: 192.168.8.126
+2025-04-29T17:56:37 2025-04-29T17:56:37.172367 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:37 Received detection: {'frequency': 18023, 'magnitude': 67629.0, 'timestamp': 21076}
+2025-04-29T17:56:37 Detection received - Frequency: 18023 Hz, Magnitude: 67629.0, Client: 192.168.8.126
+2025-04-29T17:56:37 2025-04-29T17:56:37.549429 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:37 Received detection: {'frequency': 18045, 'magnitude': 95446.0, 'timestamp': 21447}
+2025-04-29T17:56:37 Detection received - Frequency: 18045 Hz, Magnitude: 95446.0, Client: 192.168.8.126
+2025-04-29T17:56:37 2025-04-29T17:56:37.910216 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:38 Received detection: {'frequency': 18066, 'magnitude': 68629.0, 'timestamp': 21823}
+2025-04-29T17:56:38 Detection received - Frequency: 18066 Hz, Magnitude: 68629.0, Client: 192.168.8.126
+2025-04-29T17:56:38 2025-04-29T17:56:38.279892 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:56:38 Received detection: {'frequency': 18045, 'magnitude': 76982.0, 'timestamp': 22176}
+2025-04-29T17:56:38 Detection received - Frequency: 18045 Hz, Magnitude: 76982.0, Client: 192.168.8.126
+2025-04-29T17:56:38 2025-04-29T17:56:38.634255 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:57:18 Health check from 192.168.8.126
+2025-04-29T17:57:18 2025-04-29T17:57:18.435655 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:57:18 Received detection: {'frequency': 17959, 'magnitude': 32897.0, 'timestamp': 62060}
+2025-04-29T17:57:18 Detection received - Frequency: 17959 Hz, Magnitude: 32897.0, Client: 192.168.8.126
+2025-04-29T17:57:18 2025-04-29T17:57:18.516452 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:57:31 Received detection: {'frequency': 18260, 'magnitude': 42772.0, 'timestamp': 75034}
+2025-04-29T17:57:31 Detection received - Frequency: 18260 Hz, Magnitude: 42772.0, Client: 192.168.8.126
+2025-04-29T17:57:31 2025-04-29T17:57:31.497096 192.168.8.126 POST /api/detections 201 - 187
+2025-04-29T17:58:45 Health check from 192.168.8.126
+2025-04-29T17:58:45 2025-04-29T17:58:45.767357 192.168.8.126 GET /api/health 200 - 742
+2025-04-29T17:58:45 Received detection: {'frequency': 18002, 'magnitude': 82075.0, 'timestamp': 149468}
+2025-04-29T17:58:45 Detection received - Frequency: 18002 Hz, Magnitude: 82075.0, Client: 192.168.8.126
+2025-04-29T17:58:45 2025-04-29T17:58:45.960693 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:46 Received detection: {'frequency': 18002, 'magnitude': 59439.0, 'timestamp': 149856}
+2025-04-29T17:58:46 Detection received - Frequency: 18002 Hz, Magnitude: 59439.0, Client: 192.168.8.126
+2025-04-29T17:58:46 2025-04-29T17:58:46.325893 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:46 Received detection: {'frequency': 18023, 'magnitude': 69128.0, 'timestamp': 150230}
+2025-04-29T17:58:46 Detection received - Frequency: 18023 Hz, Magnitude: 69128.0, Client: 192.168.8.126
+2025-04-29T17:58:46 2025-04-29T17:58:46.694430 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:47 Received detection: {'frequency': 18023, 'magnitude': 73344.0, 'timestamp': 150600}
+2025-04-29T17:58:47 Detection received - Frequency: 18023 Hz, Magnitude: 73344.0, Client: 192.168.8.126
+2025-04-29T17:58:47 2025-04-29T17:58:47.062389 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:47 Received detection: {'frequency': 18002, 'magnitude': 61048.0, 'timestamp': 150955}
+2025-04-29T17:58:47 Detection received - Frequency: 18002 Hz, Magnitude: 61048.0, Client: 192.168.8.126
+2025-04-29T17:58:47 2025-04-29T17:58:47.414700 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:47 Received detection: {'frequency': 18002, 'magnitude': 75760.0, 'timestamp': 151310}
+2025-04-29T17:58:47 Detection received - Frequency: 18002 Hz, Magnitude: 75760.0, Client: 192.168.8.126
+2025-04-29T17:58:47 2025-04-29T17:58:47.815390 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:48 Received detection: {'frequency': 18023, 'magnitude': 70139.0, 'timestamp': 151717}
+2025-04-29T17:58:48 Detection received - Frequency: 18023 Hz, Magnitude: 70139.0, Client: 192.168.8.126
+2025-04-29T17:58:48 2025-04-29T17:58:48.181751 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:48 Received detection: {'frequency': 18023, 'magnitude': 42539.0, 'timestamp': 152089}
+2025-04-29T17:58:48 Detection received - Frequency: 18023 Hz, Magnitude: 42539.0, Client: 192.168.8.126
+2025-04-29T17:58:48 2025-04-29T17:58:48.555226 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:49 Received detection: {'frequency': 18023, 'magnitude': 101282.0, 'timestamp': 152461}
+2025-04-29T17:58:49 Detection received - Frequency: 18023 Hz, Magnitude: 101282.0, Client: 192.168.8.126
+2025-04-29T17:58:49 2025-04-29T17:58:49.029546 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:58:54 Received detection: {'frequency': 17765, 'magnitude': 53735.0, 'timestamp': 157664}
+2025-04-29T17:58:54 Detection received - Frequency: 17765 Hz, Magnitude: 53735.0, Client: 192.168.8.126
+2025-04-29T17:58:54 2025-04-29T17:58:54.130863 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:54 Received detection: {'frequency': 18174, 'magnitude': 36657.0, 'timestamp': 158038}
+2025-04-29T17:58:54 Detection received - Frequency: 18174 Hz, Magnitude: 36657.0, Client: 192.168.8.126
+2025-04-29T17:58:54 2025-04-29T17:58:54.501292 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:56 Received detection: {'frequency': 17980, 'magnitude': 80180.0, 'timestamp': 159972}
+2025-04-29T17:58:56 Detection received - Frequency: 17980 Hz, Magnitude: 80180.0, Client: 192.168.8.126
+2025-04-29T17:58:56 2025-04-29T17:58:56.443410 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:58:59 Received detection: {'frequency': 17722, 'magnitude': 20045.0, 'timestamp': 163243}
+2025-04-29T17:58:59 Detection received - Frequency: 17722 Hz, Magnitude: 20045.0, Client: 192.168.8.126
+2025-04-29T17:58:59 2025-04-29T17:58:59.712360 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:01 Received detection: {'frequency': 18045, 'magnitude': 101008.0, 'timestamp': 164929}
+2025-04-29T17:59:01 Detection received - Frequency: 18045 Hz, Magnitude: 101008.0, Client: 192.168.8.126
+2025-04-29T17:59:01 2025-04-29T17:59:01.423930 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:59:01 Received detection: {'frequency': 18023, 'magnitude': 209020.0, 'timestamp': 165320}
+2025-04-29T17:59:01 Detection received - Frequency: 18023 Hz, Magnitude: 209020.0, Client: 192.168.8.126
+2025-04-29T17:59:01 2025-04-29T17:59:01.795855 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:59:02 Received detection: {'frequency': 18023, 'magnitude': 178203.0, 'timestamp': 165696}
+2025-04-29T17:59:02 Detection received - Frequency: 18023 Hz, Magnitude: 178203.0, Client: 192.168.8.126
+2025-04-29T17:59:02 2025-04-29T17:59:02.241036 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:59:02 Received detection: {'frequency': 18002, 'magnitude': 145920.0, 'timestamp': 166142}
+2025-04-29T17:59:02 Detection received - Frequency: 18002 Hz, Magnitude: 145920.0, Client: 192.168.8.126
+2025-04-29T17:59:02 2025-04-29T17:59:02.603228 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:59:03 Received detection: {'frequency': 18023, 'magnitude': 67744.0, 'timestamp': 166498}
+2025-04-29T17:59:03 Detection received - Frequency: 18023 Hz, Magnitude: 67744.0, Client: 192.168.8.126
+2025-04-29T17:59:03 2025-04-29T17:59:03.070287 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:03 Received detection: {'frequency': 18023, 'magnitude': 118432.0, 'timestamp': 166979}
+2025-04-29T17:59:03 Detection received - Frequency: 18023 Hz, Magnitude: 118432.0, Client: 192.168.8.126
+2025-04-29T17:59:03 2025-04-29T17:59:03.469446 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:59:03 Received detection: {'frequency': 18023, 'magnitude': 64009.0, 'timestamp': 167369}
+2025-04-29T17:59:03 Detection received - Frequency: 18023 Hz, Magnitude: 64009.0, Client: 192.168.8.126
+2025-04-29T17:59:03 2025-04-29T17:59:03.830554 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:09 Received detection: {'frequency': 18023, 'magnitude': 95183.0, 'timestamp': 173247}
+2025-04-29T17:59:09 Detection received - Frequency: 18023 Hz, Magnitude: 95183.0, Client: 192.168.8.126
+2025-04-29T17:59:09 2025-04-29T17:59:09.714906 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:10 Received detection: {'frequency': 18045, 'magnitude': 70423.0, 'timestamp': 173622}
+2025-04-29T17:59:10 Detection received - Frequency: 18045 Hz, Magnitude: 70423.0, Client: 192.168.8.126
+2025-04-29T17:59:10 2025-04-29T17:59:10.087650 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:10 Received detection: {'frequency': 18002, 'magnitude': 46511.0, 'timestamp': 173982}
+2025-04-29T17:59:10 Detection received - Frequency: 18002 Hz, Magnitude: 46511.0, Client: 192.168.8.126
+2025-04-29T17:59:10 2025-04-29T17:59:10.535277 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:10 Received detection: {'frequency': 17980, 'magnitude': 48793.0, 'timestamp': 174432}
+2025-04-29T17:59:10 Detection received - Frequency: 17980 Hz, Magnitude: 48793.0, Client: 192.168.8.126
+2025-04-29T17:59:10 2025-04-29T17:59:10.896751 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:11 Received detection: {'frequency': 18023, 'magnitude': 42236.0, 'timestamp': 174807}
+2025-04-29T17:59:11 Detection received - Frequency: 18023 Hz, Magnitude: 42236.0, Client: 192.168.8.126
+2025-04-29T17:59:11 2025-04-29T17:59:11.265548 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:11 Received detection: {'frequency': 18023, 'magnitude': 25450.0, 'timestamp': 175162}
+2025-04-29T17:59:11 Detection received - Frequency: 18023 Hz, Magnitude: 25450.0, Client: 192.168.8.126
+2025-04-29T17:59:11 2025-04-29T17:59:11.626355 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:12 Received detection: {'frequency': 18045, 'magnitude': 23659.0, 'timestamp': 175782}
+2025-04-29T17:59:12 Detection received - Frequency: 18045 Hz, Magnitude: 23659.0, Client: 192.168.8.126
+2025-04-29T17:59:12 2025-04-29T17:59:12.274758 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:13 Received detection: {'frequency': 18045, 'magnitude': 38395.0, 'timestamp': 176698}
+2025-04-29T17:59:13 Detection received - Frequency: 18045 Hz, Magnitude: 38395.0, Client: 192.168.8.126
+2025-04-29T17:59:13 2025-04-29T17:59:13.160914 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:13 Received detection: {'frequency': 18066, 'magnitude': 80099.0, 'timestamp': 177054}
+2025-04-29T17:59:13 Detection received - Frequency: 18066 Hz, Magnitude: 80099.0, Client: 192.168.8.126
+2025-04-29T17:59:13 2025-04-29T17:59:13.529150 192.168.8.126 POST /api/detections 201 - 188
+2025-04-29T17:59:13 Received detection: {'frequency': 18066, 'magnitude': 134699.0, 'timestamp': 177429}
+2025-04-29T17:59:13 Detection received - Frequency: 18066 Hz, Magnitude: 134699.0, Client: 192.168.8.126
+2025-04-29T17:59:13 2025-04-29T17:59:13.896898 192.168.8.126 POST /api/detections 201 - 189
+2025-04-29T17:59:14 Received detection: {'frequency': 18045, 'magnitude': 68852.0, 'timestamp': 177801}
+2025-04-29T17:59:14 Detection received - Frequency: 18045 Hz, Magnitude: 68852.0, Client: 192.168.8.126
+2025-04-29T17:59:14 2025-04-29T17:59:14.425114 192.168.8.126 POST /api/detections 201 - 188

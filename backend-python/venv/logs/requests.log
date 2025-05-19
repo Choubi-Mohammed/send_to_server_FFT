@@ -1,0 +1,446 @@
+2025-04-29T17:43:12.565728 - Request from 192.168.8.126:
+Body: {'frequency': 17851, 'magnitude': 12341.92, 'timestamp': 3286}
+2025-04-29T17:43:12.995546 - Request from 192.168.8.126:
+Body: {'frequency': 17937, 'magnitude': 7469.54, 'timestamp': 3690}
+2025-04-29T17:43:15.959517 - Request from 192.168.8.126:
+Body: {'frequency': 17765, 'magnitude': 6049.86, 'timestamp': 6604}
+2025-04-29T17:43:16.398226 - Request from 192.168.8.126:
+Body: {'frequency': 18131, 'magnitude': 10613.35, 'timestamp': 7109}
+2025-04-29T17:43:19.179273 - Request from 192.168.8.126:
+Body: {'frequency': 17937, 'magnitude': 6314.37, 'timestamp': 9871}
+2025-04-29T17:43:20.458265 - Request from 192.168.8.126:
+Body: {'frequency': 17808, 'magnitude': 5232.49, 'timestamp': 11169}
+2025-04-29T17:43:21.966664 - Request from 192.168.8.126:
+Body: {'frequency': 17700, 'magnitude': 6345.63, 'timestamp': 12662}
+2025-04-29T17:43:25.768206 - Request from 192.168.8.126:
+Body: {'frequency': 17851, 'magnitude': 6750.1, 'timestamp': 16475}
+2025-04-29T17:43:26.533653 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 5049.21, 'timestamp': 17258}
+2025-04-29T17:43:29.283834 - Request from 192.168.8.126:
+Body: {'frequency': 18174, 'magnitude': 5879.37, 'timestamp': 19996}
+2025-04-29T17:43:29.666570 - Request from 192.168.8.126:
+Body: {'frequency': 17851, 'magnitude': 11231.37, 'timestamp': 20371}
+2025-04-29T17:43:37.909848 - Request from 192.168.8.126:
+Body: {'frequency': 17959, 'magnitude': 6493.59, 'timestamp': 28634}
+2025-04-29T17:43:38.263148 - Request from 192.168.8.126:
+Body: {'frequency': 18239, 'magnitude': 16777.21, 'timestamp': 28986}
+2025-04-29T17:43:39.083180 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 12571.48, 'timestamp': 29798}
+2025-04-29T17:43:39.451670 - Request from 192.168.8.126:
+Body: {'frequency': 17873, 'magnitude': 15580.26, 'timestamp': 30175}
+2025-04-29T17:43:53.801991 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 142770.77, 'timestamp': 44526}
+2025-04-29T17:43:54.168142 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 31528.75, 'timestamp': 44893}
+2025-04-29T17:43:54.666150 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 32166.17, 'timestamp': 45393}
+2025-04-29T17:43:55.083672 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 31385.16, 'timestamp': 45798}
+2025-04-29T17:43:55.602264 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 34246.57, 'timestamp': 46318}
+2025-04-29T17:43:55.956476 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 50372.96, 'timestamp': 46681}
+2025-04-29T17:43:56.311576 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 22298.26, 'timestamp': 47037}
+2025-04-29T17:43:56.669316 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 72099.02, 'timestamp': 47396}
+2025-04-29T17:43:57.133241 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 21306.88, 'timestamp': 47850}
+2025-04-29T17:43:57.552496 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 65705.4, 'timestamp': 48275}
+2025-04-29T17:43:57.910742 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 79527.72, 'timestamp': 48632}
+2025-04-29T17:43:58.274324 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 67617.45, 'timestamp': 48993}
+2025-04-29T17:43:58.628191 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 150289.16, 'timestamp': 49353}
+2025-04-29T17:43:59.174694 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 116870.49, 'timestamp': 49898}
+2025-04-29T17:43:59.591828 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 63787.35, 'timestamp': 50306}
+2025-04-29T17:44:00.022150 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 52182.54, 'timestamp': 50726}
+2025-04-29T17:44:00.371928 - Request from 192.168.8.126:
+Body: {'frequency': 17980, 'magnitude': 43736.08, 'timestamp': 51099}
+2025-04-29T17:44:32.183154 - Request from 192.168.8.126:
+Body: {'frequency': 17700, 'magnitude': 6332.6, 'timestamp': 82909}
+2025-04-29T17:44:33.345120 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 32117.28, 'timestamp': 84071}
+2025-04-29T17:44:33.706369 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 134195.7, 'timestamp': 84431}
+2025-04-29T17:44:34.204571 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 127236.17, 'timestamp': 84931}
+2025-04-29T17:44:34.592491 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 104704.78, 'timestamp': 85319}
+2025-04-29T17:44:34.964680 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 72779.22, 'timestamp': 85691}
+2025-04-29T17:44:35.426497 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 85695.11, 'timestamp': 86147}
+2025-04-29T17:44:35.782019 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 87233.31, 'timestamp': 86508}
+2025-04-29T17:44:36.149995 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 103279.51, 'timestamp': 86874}
+2025-04-29T17:44:36.567054 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 43644.86, 'timestamp': 87286}
+2025-04-29T17:44:36.932603 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 69241.09, 'timestamp': 87656}
+2025-04-29T17:44:37.553517 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 51809.79, 'timestamp': 88273}
+2025-04-29T17:45:01.910162 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 14058.03, 'timestamp': 112634}
+2025-04-29T17:45:02.318877 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 55050.23, 'timestamp': 113045}
+2025-04-29T17:45:02.865100 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 53500.31, 'timestamp': 113590}
+2025-04-29T17:45:03.274201 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 26830.62, 'timestamp': 114000}
+2025-04-29T17:45:03.682815 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 37610.89, 'timestamp': 114406}
+2025-04-29T17:45:04.037048 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 12663.61, 'timestamp': 114763}
+2025-04-29T17:45:04.509340 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 12667.96, 'timestamp': 115233}
+2025-04-29T17:45:05.022159 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 50437.06, 'timestamp': 115745}
+2025-04-29T17:45:05.541051 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 69940.26, 'timestamp': 116259}
+2025-04-29T17:45:05.912815 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 124370.48, 'timestamp': 116632}
+2025-04-29T17:45:06.273009 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 29673.39, 'timestamp': 116991}
+2025-04-29T17:45:06.628342 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 61563.07, 'timestamp': 117350}
+2025-04-29T17:45:06.998737 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 81750.53, 'timestamp': 117723}
+2025-04-29T17:45:07.375612 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 20353.08, 'timestamp': 118071}
+2025-04-29T17:45:20.864841 - Request from 192.168.8.126:
+Body: {'frequency': 17873, 'magnitude': 5386.37, 'timestamp': 131588}
+2025-04-29T17:45:25.601493 - Request from 192.168.8.126:
+Body: {'frequency': 17851, 'magnitude': 5123.66, 'timestamp': 136162}
+2025-04-29T17:45:40.536811 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 5558.28, 'timestamp': 151261}
+2025-04-29T17:45:46.936316 - Request from 192.168.8.126:
+Body: {'frequency': 17959, 'magnitude': 5666.79, 'timestamp': 157663}
+2025-04-29T17:45:47.420492 - Request from 192.168.8.126:
+Body: {'frequency': 18152, 'magnitude': 6239.43, 'timestamp': 158133}
+2025-04-29T17:45:48.976635 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 6301.62, 'timestamp': 159700}
+2025-04-29T17:46:28.633298 - Request from 192.168.8.126:
+Body: {'frequency': 17722, 'magnitude': 5074.07, 'timestamp': 199211}
+2025-04-29T17:46:34.522949 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 5078.47, 'timestamp': 205188}
+2025-04-29T17:46:35.326620 - Request from 192.168.8.126:
+Body: {'frequency': 18088, 'magnitude': 7199.67, 'timestamp': 206042}
+2025-04-29T17:46:36.074551 - Request from 192.168.8.126:
+Body: {'frequency': 17679, 'magnitude': 5441.71, 'timestamp': 206724}
+2025-04-29T17:46:37.841028 - Request from 192.168.8.126:
+Body: {'frequency': 18109, 'magnitude': 7184.64, 'timestamp': 208556}
+2025-04-29T17:46:40.516780 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 7267.56, 'timestamp': 211238}
+2025-04-29T17:46:46.343176 - Request from 192.168.8.126:
+Body: {'frequency': 17937, 'magnitude': 7175.75, 'timestamp': 217069}
+2025-04-29T17:46:48.711450 - Request from 192.168.8.126:
+Body: {'frequency': 18196, 'magnitude': 6090.6, 'timestamp': 219398}
+2025-04-29T17:46:59.660585 - Request from 192.168.8.126:
+Body: {'frequency': 17894, 'magnitude': 5351.54, 'timestamp': 230235}
+2025-04-29T17:47:05.243287 - Request from 192.168.8.126:
+Body: {'frequency': 17765, 'magnitude': 5596.76, 'timestamp': 235845}
+2025-04-29T17:47:11.183509 - Request from 192.168.8.126:
+Body: {'frequency': 17829, 'magnitude': 7893.57, 'timestamp': 241909}
+2025-04-29T17:47:22.767765 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 6154.17, 'timestamp': 253471}
+2025-04-29T17:47:28.965918 - Request from 192.168.8.126:
+Body: {'frequency': 18239, 'magnitude': 6207.48, 'timestamp': 259678}
+2025-04-29T17:47:29.339528 - Request from 192.168.8.126:
+Body: {'frequency': 18109, 'magnitude': 7208.14, 'timestamp': 260060}
+2025-04-29T17:47:29.782114 - Request from 192.168.8.126:
+Body: {'frequency': 17743, 'magnitude': 5126.98, 'timestamp': 260506}
+2025-04-29T17:47:34.705880 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 6606.51, 'timestamp': 265428}
+2025-04-29T17:47:38.221943 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 11210.69, 'timestamp': 268943}
+2025-04-29T17:47:43.880548 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 13363.11, 'timestamp': 274601}
+2025-04-29T17:47:44.498153 - Request from 192.168.8.126:
+Body: {'frequency': 18131, 'magnitude': 17672.92, 'timestamp': 275223}
+2025-04-29T17:47:45.031584 - Request from 192.168.8.126:
+Body: {'frequency': 18088, 'magnitude': 5829.45, 'timestamp': 275736}
+2025-04-29T17:47:49.956968 - Request from 192.168.8.126:
+Body: {'frequency': 17851, 'magnitude': 6597.48, 'timestamp': 280679}
+2025-04-29T17:47:50.330987 - Request from 192.168.8.126:
+Body: {'frequency': 17894, 'magnitude': 12232.32, 'timestamp': 281052}
+2025-04-29T17:47:50.950442 - Request from 192.168.8.126:
+Body: {'frequency': 18196, 'magnitude': 5232.58, 'timestamp': 281671}
+2025-04-29T17:47:51.320813 - Request from 192.168.8.126:
+Body: {'frequency': 17722, 'magnitude': 17311.98, 'timestamp': 282041}
+2025-04-29T17:47:53.046255 - Request from 192.168.8.126:
+Body: {'frequency': 17722, 'magnitude': 6767.36, 'timestamp': 283763}
+2025-04-29T17:47:53.471114 - Request from 192.168.8.126:
+Body: {'frequency': 17829, 'magnitude': 5860.18, 'timestamp': 284194}
+2025-04-29T17:47:54.203286 - Request from 192.168.8.126:
+Body: {'frequency': 17700, 'magnitude': 6841.76, 'timestamp': 284905}
+2025-04-29T17:47:59.197235 - Request from 192.168.8.126:
+Body: {'frequency': 17679, 'magnitude': 8356.05, 'timestamp': 289886}
+2025-04-29T17:48:04.746453 - Request from 192.168.8.126:
+Body: {'frequency': 18217, 'magnitude': 7225.31, 'timestamp': 295464}
+2025-04-29T17:48:10.253287 - Request from 192.168.8.126:
+Body: {'frequency': 17937, 'magnitude': 10082.76, 'timestamp': 300971}
+2025-04-29T17:48:10.676750 - Request from 192.168.8.126:
+Body: {'frequency': 17937, 'magnitude': 15414.56, 'timestamp': 301398}
+2025-04-29T17:48:13.682611 - Request from 192.168.8.126:
+Body: {'frequency': 17980, 'magnitude': 5374.75, 'timestamp': 304406}
+2025-04-29T17:48:16.274367 - Request from 192.168.8.126:
+Body: {'frequency': 17722, 'magnitude': 6548.08, 'timestamp': 306993}
+2025-04-29T17:48:20.045429 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 6958.22, 'timestamp': 310769}
+2025-04-29T17:48:20.405946 - Request from 192.168.8.126:
+Body: {'frequency': 17851, 'magnitude': 16528.31, 'timestamp': 311128}
+2025-04-29T17:48:23.396394 - Request from 192.168.8.126:
+Body: {'frequency': 17722, 'magnitude': 13624.15, 'timestamp': 314120}
+2025-04-29T17:48:24.299849 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 13406.82, 'timestamp': 315022}
+2025-04-29T17:48:26.022140 - Request from 192.168.8.126:
+Body: {'frequency': 17765, 'magnitude': 9147.32, 'timestamp': 316742}
+2025-04-29T17:48:26.617148 - Request from 192.168.8.126:
+Body: {'frequency': 18109, 'magnitude': 5931.21, 'timestamp': 317340}
+2025-04-29T17:48:30.029257 - Request from 192.168.8.126:
+Body: {'frequency': 18217, 'magnitude': 16086.14, 'timestamp': 320739}
+2025-04-29T17:48:32.276282 - Request from 192.168.8.126:
+Body: {'frequency': 18282, 'magnitude': 6904.71, 'timestamp': 322996}
+2025-04-29T17:48:32.699462 - Request from 192.168.8.126:
+Body: {'frequency': 17743, 'magnitude': 6406.41, 'timestamp': 323409}
+2025-04-29T17:48:35.589545 - Request from 192.168.8.126:
+Body: {'frequency': 18174, 'magnitude': 5273.63, 'timestamp': 326290}
+2025-04-29T17:48:36.357285 - Request from 192.168.8.126:
+Body: {'frequency': 17873, 'magnitude': 5673.71, 'timestamp': 326803}
+2025-04-29T17:48:45.156740 - Request from 192.168.8.126:
+Body: {'frequency': 18088, 'magnitude': 5498.92, 'timestamp': 335876}
+2025-04-29T17:48:51.403583 - Request from 192.168.8.126:
+Body: {'frequency': 17894, 'magnitude': 7536.37, 'timestamp': 342114}
+2025-04-29T17:48:54.683360 - Request from 192.168.8.126:
+Body: {'frequency': 17873, 'magnitude': 7773.31, 'timestamp': 345307}
+2025-04-29T17:48:55.797847 - Request from 192.168.8.126:
+Body: {'frequency': 17679, 'magnitude': 8348.32, 'timestamp': 346430}
+2025-04-29T17:48:57.228112 - Request from 192.168.8.126:
+Body: {'frequency': 17873, 'magnitude': 5707.38, 'timestamp': 347864}
+2025-04-29T17:48:59.592242 - Request from 192.168.8.126:
+Body: {'frequency': 17700, 'magnitude': 6947.65, 'timestamp': 349098}
+2025-04-29T17:49:11.382484 - Request from 192.168.8.126:
+Body: {'frequency': 18260, 'magnitude': 7066.56, 'timestamp': 362025}
+2025-04-29T17:49:13.304484 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 6337.7, 'timestamp': 363913}
+2025-04-29T17:49:15.811792 - Request from 192.168.8.126:
+Body: {'frequency': 17786, 'magnitude': 5945.74, 'timestamp': 366364}
+2025-04-29T17:49:24.636469 - Request from 192.168.8.126:
+Body: {'frequency': 17916, 'magnitude': 7584.3, 'timestamp': 375321}
+2025-04-29T17:49:25.370475 - Request from 192.168.8.126:
+Body: {'frequency': 17980, 'magnitude': 5442.35, 'timestamp': 375851}
+2025-04-29T17:49:27.153205 - Request from 192.168.8.126:
+Body: {'frequency': 17937, 'magnitude': 6051.31, 'timestamp': 377762}
+2025-04-29T17:49:28.186474 - Request from 192.168.8.126:
+Body: {'frequency': 17743, 'magnitude': 5062.07, 'timestamp': 378747}
+2025-04-29T17:49:30.445341 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 6821.98, 'timestamp': 381166}
+2025-04-29T17:49:54.257028 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 6564.87, 'timestamp': 404982}
+2025-04-29T17:49:55.589300 - Request from 192.168.8.126:
+Body: {'frequency': 18282, 'magnitude': 5645.11, 'timestamp': 406314}
+2025-04-29T17:49:58.685422 - Request from 192.168.8.126:
+Body: {'frequency': 18196, 'magnitude': 5903.4, 'timestamp': 409400}
+2025-04-29T17:50:06.223848 - Request from 192.168.8.126:
+Body: {'frequency': 17743, 'magnitude': 7412.2, 'timestamp': 416947}
+2025-04-29T17:50:08.959303 - Request from 192.168.8.126:
+Body: {'frequency': 18282, 'magnitude': 8977.14, 'timestamp': 419675}
+2025-04-29T17:50:21.688409 - Request from 192.168.8.126:
+Body: {'frequency': 17916, 'magnitude': 6451.59, 'timestamp': 432412}
+2025-04-29T17:50:33.318387 - Request from 192.168.8.126:
+Body: {'frequency': 17722, 'magnitude': 5704.24, 'timestamp': 444043}
+2025-04-29T17:50:38.945603 - Request from 192.168.8.126:
+Body: {'frequency': 18282, 'magnitude': 5923.17, 'timestamp': 449661}
+2025-04-29T17:51:10.204966 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 6504.97, 'timestamp': 480923}
+2025-04-29T17:51:29.491523 - Request from 192.168.8.126:
+Body: {'frequency': 17873, 'magnitude': 7717.96, 'timestamp': 500215}
+2025-04-29T17:51:50.143202 - Request from 192.168.8.126:
+Body: {'frequency': 17959, 'magnitude': 6570.97, 'timestamp': 520869}
+2025-04-29T17:52:16.842167 - Request from 192.168.8.126:
+Body: {'frequency': 17679, 'magnitude': 6604.14, 'timestamp': 547543}
+2025-04-29T17:52:28.871984 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 6100.84, 'timestamp': 559593}
+2025-04-29T17:52:30.286229 - Request from 192.168.8.126:
+Body: {'frequency': 18282, 'magnitude': 6811.4, 'timestamp': 560997}
+2025-04-29T17:52:30.650676 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 6880.56, 'timestamp': 561362}
+2025-04-29T17:52:31.008594 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 10039.53, 'timestamp': 561718}
+2025-04-29T17:52:31.762939 - Request from 192.168.8.126:
+Body: {'frequency': 17679, 'magnitude': 6910.4, 'timestamp': 562480}
+2025-04-29T17:52:32.130128 - Request from 192.168.8.126:
+Body: {'frequency': 18282, 'magnitude': 9114.34, 'timestamp': 562852}
+2025-04-29T17:52:33.570236 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 7264.11, 'timestamp': 564293}
+2025-04-29T17:52:43.374782 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 7479.98, 'timestamp': 3080}
+2025-04-29T17:53:14.087770 - Request from 192.168.8.126:
+Body: {'frequency': 18152, 'magnitude': 6023.88, 'timestamp': 34031}
+2025-04-29T17:53:14.760926 - Request from 192.168.8.126:
+Body: {'frequency': 18152, 'magnitude': 5879.49, 'timestamp': 34706}
+2025-04-29T17:53:22.237294 - Request from 192.168.8.126:
+Body: {'frequency': 17894, 'magnitude': 5411.12, 'timestamp': 42181}
+2025-04-29T17:53:43.892676 - Request from 192.168.8.126:
+Body: {'frequency': 17829, 'magnitude': 7239.61, 'timestamp': 63840}
+2025-04-29T17:54:08.876323 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 6676.53, 'timestamp': 88826}
+2025-04-29T17:54:11.908698 - Request from 192.168.8.126:
+Body: {'frequency': 17873, 'magnitude': 6207.47, 'timestamp': 91854}
+2025-04-29T17:54:39.418395 - Request from 192.168.8.126:
+Body: {'frequency': 18260, 'magnitude': 5152.13, 'timestamp': 119361}
+2025-04-29T17:55:17.427993 - Request from 192.168.8.126:
+Body: {'frequency': 17894, 'magnitude': 5552.78, 'timestamp': 157375}
+2025-04-29T17:55:19.722024 - Request from 192.168.8.126:
+Body: {'frequency': 17679, 'magnitude': 5565.26, 'timestamp': 159666}
+2025-04-29T17:55:25.133689 - Request from 192.168.8.126:
+Body: {'frequency': 17808, 'magnitude': 6129.22, 'timestamp': 165076}
+2025-04-29T17:55:27.607692 - Request from 192.168.8.126:
+Body: {'frequency': 18109, 'magnitude': 6658.49, 'timestamp': 167547}
+2025-04-29T17:55:32.750481 - Request from 192.168.8.126:
+Body: {'frequency': 17786, 'magnitude': 5502.94, 'timestamp': 172698}
+2025-04-29T17:55:38.385883 - Request from 192.168.8.126:
+Body: {'frequency': 18217, 'magnitude': 12932.62, 'timestamp': 178333}
+2025-04-29T17:55:39.573470 - Request from 192.168.8.126:
+Body: {'frequency': 18282, 'magnitude': 5220.27, 'timestamp': 179515}
+2025-04-29T17:55:46.837898 - Request from 192.168.8.126:
+Body: {'frequency': 17679, 'magnitude': 5720.31, 'timestamp': 186777}
+2025-04-29T17:56:19.646394 - Request from 192.168.8.126:
+Body: {'frequency': 18131, 'magnitude': 60146.0, 'timestamp': 3245}
+2025-04-29T17:56:26.326093 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 69031.0, 'timestamp': 9924}
+2025-04-29T17:56:26.812551 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 46860.0, 'timestamp': 10412}
+2025-04-29T17:56:27.172518 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 54860.0, 'timestamp': 10766}
+2025-04-29T17:56:27.585324 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 59998.0, 'timestamp': 11123}
+2025-04-29T17:56:27.926581 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 51393.0, 'timestamp': 11525}
+2025-04-29T17:56:28.335748 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 32153.0, 'timestamp': 11930}
+2025-04-29T17:56:28.716275 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 38091.0, 'timestamp': 12289}
+2025-04-29T17:56:29.061359 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 51987.0, 'timestamp': 12661}
+2025-04-29T17:56:29.561910 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 43282.0, 'timestamp': 13160}
+2025-04-29T17:56:29.916250 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 115481.0, 'timestamp': 13516}
+2025-04-29T17:56:30.364863 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 97713.0, 'timestamp': 13965}
+2025-04-29T17:56:30.719884 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 82095.0, 'timestamp': 14320}
+2025-04-29T17:56:31.075713 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 62425.0, 'timestamp': 14676}
+2025-04-29T17:56:31.513162 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 71733.0, 'timestamp': 15113}
+2025-04-29T17:56:31.918024 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 69833.0, 'timestamp': 15517}
+2025-04-29T17:56:32.323649 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 157593.0, 'timestamp': 15921}
+2025-04-29T17:56:32.739859 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 104066.0, 'timestamp': 16340}
+2025-04-29T17:56:33.166125 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 55999.0, 'timestamp': 16697}
+2025-04-29T17:56:33.556111 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 45041.0, 'timestamp': 17151}
+2025-04-29T17:56:33.918829 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 54809.0, 'timestamp': 17507}
+2025-04-29T17:56:34.363223 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 91792.0, 'timestamp': 17960}
+2025-04-29T17:56:34.716444 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 54556.0, 'timestamp': 18316}
+2025-04-29T17:56:35.185272 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 111705.0, 'timestamp': 18781}
+2025-04-29T17:56:35.561696 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 85863.0, 'timestamp': 19152}
+2025-04-29T17:56:35.916791 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 65770.0, 'timestamp': 19509}
+2025-04-29T17:56:36.283207 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 73039.0, 'timestamp': 19883}
+2025-04-29T17:56:36.734057 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 72880.0, 'timestamp': 20334}
+2025-04-29T17:56:37.106974 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 94354.0, 'timestamp': 20703}
+2025-04-29T17:56:37.475978 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 67629.0, 'timestamp': 21076}
+2025-04-29T17:56:37.854459 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 95446.0, 'timestamp': 21447}
+2025-04-29T17:56:38.224279 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 68629.0, 'timestamp': 21823}
+2025-04-29T17:56:38.588693 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 76982.0, 'timestamp': 22176}
+2025-04-29T17:57:18.459777 - Request from 192.168.8.126:
+Body: {'frequency': 17959, 'magnitude': 32897.0, 'timestamp': 62060}
+2025-04-29T17:57:31.445857 - Request from 192.168.8.126:
+Body: {'frequency': 18260, 'magnitude': 42772.0, 'timestamp': 75034}
+2025-04-29T17:58:45.868023 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 82075.0, 'timestamp': 149468}
+2025-04-29T17:58:46.263164 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 59439.0, 'timestamp': 149856}
+2025-04-29T17:58:46.637150 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 69128.0, 'timestamp': 150230}
+2025-04-29T17:58:47.000126 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 73344.0, 'timestamp': 150600}
+2025-04-29T17:58:47.356764 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 61048.0, 'timestamp': 150955}
+2025-04-29T17:58:47.710434 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 75760.0, 'timestamp': 151310}
+2025-04-29T17:58:48.121469 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 70139.0, 'timestamp': 151717}
+2025-04-29T17:58:48.490783 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 42539.0, 'timestamp': 152089}
+2025-04-29T17:58:48.862451 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 101282.0, 'timestamp': 152461}
+2025-04-29T17:58:54.069612 - Request from 192.168.8.126:
+Body: {'frequency': 17765, 'magnitude': 53735.0, 'timestamp': 157664}
+2025-04-29T17:58:54.441171 - Request from 192.168.8.126:
+Body: {'frequency': 18174, 'magnitude': 36657.0, 'timestamp': 158038}
+2025-04-29T17:58:56.385062 - Request from 192.168.8.126:
+Body: {'frequency': 17980, 'magnitude': 80180.0, 'timestamp': 159972}
+2025-04-29T17:58:59.645806 - Request from 192.168.8.126:
+Body: {'frequency': 17722, 'magnitude': 20045.0, 'timestamp': 163243}
+2025-04-29T17:59:01.329898 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 101008.0, 'timestamp': 164929}
+2025-04-29T17:59:01.726577 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 209020.0, 'timestamp': 165320}
+2025-04-29T17:59:02.103241 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 178203.0, 'timestamp': 165696}
+2025-04-29T17:59:02.543828 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 145920.0, 'timestamp': 166142}
+2025-04-29T17:59:02.898689 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 67744.0, 'timestamp': 166498}
+2025-04-29T17:59:03.379994 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 118432.0, 'timestamp': 166979}
+2025-04-29T17:59:03.771027 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 64009.0, 'timestamp': 167369}
+2025-04-29T17:59:09.649706 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 95183.0, 'timestamp': 173247}
+2025-04-29T17:59:10.025285 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 70423.0, 'timestamp': 173622}
+2025-04-29T17:59:10.409402 - Request from 192.168.8.126:
+Body: {'frequency': 18002, 'magnitude': 46511.0, 'timestamp': 173982}
+2025-04-29T17:59:10.836870 - Request from 192.168.8.126:
+Body: {'frequency': 17980, 'magnitude': 48793.0, 'timestamp': 174432}
+2025-04-29T17:59:11.212311 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 42236.0, 'timestamp': 174807}
+2025-04-29T17:59:11.584206 - Request from 192.168.8.126:
+Body: {'frequency': 18023, 'magnitude': 25450.0, 'timestamp': 175162}
+2025-04-29T17:59:12.182250 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 23659.0, 'timestamp': 175782}
+2025-04-29T17:59:13.099130 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 38395.0, 'timestamp': 176698}
+2025-04-29T17:59:13.456071 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 80099.0, 'timestamp': 177054}
+2025-04-29T17:59:13.833261 - Request from 192.168.8.126:
+Body: {'frequency': 18066, 'magnitude': 134699.0, 'timestamp': 177429}
+2025-04-29T17:59:14.202947 - Request from 192.168.8.126:
+Body: {'frequency': 18045, 'magnitude': 68852.0, 'timestamp': 177801}
